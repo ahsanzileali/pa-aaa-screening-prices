@@ -1,0 +1,65 @@
+{
+ "url": "https://www.windbercare.org/251244202_Chan-Soon-Shiong-Medical-Center-at-Windber_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Chan Soon-Shiong Medical Center at Windber",
+ "last_updated": "    2026-02-25",
+ "error": "",
+ "bytes": 58391424,
+ "seconds": 2,
+ "codes": {
+  "76706": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AORTA SCREENING"
+   ],
+   "gross": 354.0,
+   "gross_n_distinct": 1,
+   "cash": 300.9,
+   "min": 52.62,
+   "max": 212.4,
+   "median_neg": 99.79,
+   "n_neg": 53,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERI LIMITED"
+   ],
+   "gross": 220.0,
+   "gross_n_distinct": 1,
+   "cash": 187.0,
+   "min": 39.49,
+   "max": 220.0,
+   "median_neg": 69.13,
+   "n_neg": 53,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERI COMPL"
+   ],
+   "gross": 364.0,
+   "gross_n_distinct": 1,
+   "cash": 309.4,
+   "min": 51.45,
+   "max": 298.91,
+   "median_neg": 100.2,
+   "n_neg": 53,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8118/231534300_holy-redeemer-health-system_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Holy Redeemer Health System",
+ "last_updated": "2026-09-21",
+ "error": "",
+ "bytes": 105130622,
+ "seconds": 6,
+ "codes": {
+  "76770": {
+   "rows": 121,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP",
+    "US Renal and Bladder",
+    "US Retroperitoneal, Complete - 821"
+   ],
+   "gross": 1333.93,
+   "gross_n_distinct": 1,
+   "cash": 800.36,
+   "min": 62.72,
+   "max": 1160.52,
+   "median_neg": 139.0,
+   "n_neg": 53,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 121,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA",
+    "US Aorta Screening",
+    "US Aorta Screening - 821"
+   ],
+   "gross": 395.25,
+   "gross_n_distinct": 1,
+   "cash": 237.15,
+   "min": 84.17,
+   "max": 343.87,
+   "median_neg": 139.0,
+   "n_neg": 53,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 121,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM",
+    "US Renal Limited",
+    "US Renal Limited - 821"
+   ],
+   "gross": 880.47,
+   "gross_n_distinct": 1,
+   "cash": 528.29,
+   "min": 62.72,
+   "max": 766.01,
+   "median_neg": 139.0,
+   "n_neg": 53,
+   "modifier_used": ""
+  }
+ }
+}

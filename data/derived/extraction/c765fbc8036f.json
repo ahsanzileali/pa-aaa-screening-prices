@@ -1,0 +1,49 @@
+{
+ "url": "https://www.cdmpricing.com/bc751d7bc627f16d079c47ff05c9fe44/standard-charges",
+ "format": "",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "ValueError: file is a web page (HTML), not a data file",
+ "bytes": 165199,
+ "codes": {
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

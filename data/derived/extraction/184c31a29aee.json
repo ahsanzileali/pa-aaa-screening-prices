@@ -1,0 +1,65 @@
+{
+ "url": "https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/851620990_penn-state-health-lancaster-medical-center_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Penn State Health Lancaster Medical Center",
+ "last_updated": "3/27/2026",
+ "error": "",
+ "bytes": 95329238,
+ "seconds": 3,
+ "codes": {
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76706 US ABDL AORTA SCREEN AAA Tech",
+    "76706 VL Screening Aorta for Aneurysm Tech"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 154.23,
+   "min": 87.2,
+   "max": 448.36,
+   "median_neg": 105.155,
+   "n_neg": 72,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76775 ECHOgraphy Retroperitoneal Limited Tech",
+    "76775 US Aorta Tech",
+    "76775 US EXAM ABDO BACK WALL LIM Tech"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 154.23,
+   "min": 87.2,
+   "max": 448.36,
+   "median_neg": 105.155,
+   "n_neg": 144,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76770 US EXAM ABDO BACK WALL COMP Tech"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 154.23,
+   "min": 87.2,
+   "max": 448.36,
+   "median_neg": 105.155,
+   "n_neg": 36,
+   "modifier_used": ""
+  }
+ }
+}

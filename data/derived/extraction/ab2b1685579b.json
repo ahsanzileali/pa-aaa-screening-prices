@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965420_upmc-magee_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Magee-Womens Hospital",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 199964754,
+ "seconds": 6,
+ "codes": {
+  "76706": {
+   "rows": 50,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 447.05,
+   "median_neg": 133.82999999999998,
+   "n_neg": 36,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 50,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1117.0,
+   "gross_n_distinct": 1,
+   "cash": 670.2,
+   "min": 83.73,
+   "max": 1027.64,
+   "median_neg": 298.94000000000005,
+   "n_neg": 36,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 50,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 783.0,
+   "gross_n_distinct": 1,
+   "cash": 469.8,
+   "min": 89.65,
+   "max": 765.24,
+   "median_neg": 313.2,
+   "n_neg": 36,
+   "modifier_used": ""
+  }
+ }
+}

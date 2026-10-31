@@ -1,0 +1,11 @@
+location-name: Heritage Valley Beaver
+source-page-url: https://www.heritagevalley.org/patient-visitor-resources/pricing-transparency/
+mrf-url: https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv
+contact-name: Baden Business Office
+contact-email: bbocustomerservice@hvhs.org
+
+location-name: Heritage Valley Sewickley
+source-page-url: https://www.heritagevalley.org/patient-visitor-resources/pricing-transparency/
+mrf-url: https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv
+contact-name: Baden Business Office
+contact-email: bbocustomerservice@hvhs.org

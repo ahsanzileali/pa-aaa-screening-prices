@@ -1,0 +1,62 @@
+{
+ "url": "https://www.mmchs.org/wp-content/uploads/2026/09/251512436_Meadville-Medical-Center_standardcharges_09.11.26.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Meadville Medical Center",
+ "last_updated": "9/11/2026",
+ "error": "",
+ "bytes": 14692545,
+ "seconds": 1,
+ "codes": {
+  "76770": {
+   "rows": 32,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 621.0,
+   "gross_n_distinct": 1,
+   "cash": 372.6,
+   "min": 372.6,
+   "max": 403.65,
+   "median_neg": 135.64499999999998,
+   "n_neg": 32,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 31,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 443.0,
+   "gross_n_distinct": 1,
+   "cash": 265.8,
+   "min": 265.8,
+   "max": 337.62,
+   "median_neg": 141.32,
+   "n_neg": 31,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 31,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 463.0,
+   "gross_n_distinct": 1,
+   "cash": 277.8,
+   "min": 277.8,
+   "max": 337.62,
+   "median_neg": 141.32,
+   "n_neg": 31,
+   "modifier_used": "TC"
+  }
+ }
+}

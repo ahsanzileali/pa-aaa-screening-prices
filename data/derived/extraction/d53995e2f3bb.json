@@ -1,0 +1,62 @@
+{
+ "url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/Schuylkill",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 436128558,
+ "seconds": 27,
+ "codes": {
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 90.9,
+   "max": 650.73,
+   "median_neg": 115.4952,
+   "n_neg": 37,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 86.78,
+   "max": 650.73,
+   "median_neg": 113.3564,
+   "n_neg": 37,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 82.54,
+   "max": 650.73,
+   "median_neg": 113.3564,
+   "n_neg": 37,
+   "modifier_used": ""
+  }
+ }
+}

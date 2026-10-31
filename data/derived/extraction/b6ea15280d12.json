@@ -1,0 +1,62 @@
+{
+ "url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/230794160_good-samaritan-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Good Samaritan Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 30215432,
+ "seconds": 3,
+ "codes": {
+  "76775": {
+   "rows": 40,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Limited Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1269.0,
+   "gross_n_distinct": 1,
+   "cash": 1015.2,
+   "min": 75.18,
+   "max": 522.47,
+   "median_neg": 138.125,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 40,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound Scan of Abdominal Aorta"
+   ],
+   "gross": 940.0,
+   "gross_n_distinct": 1,
+   "cash": 752.0,
+   "min": 62.64,
+   "max": 522.47,
+   "median_neg": 138.125,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 40,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1786.0,
+   "gross_n_distinct": 1,
+   "cash": 1428.8,
+   "min": 86.36,
+   "max": 522.47,
+   "median_neg": 139.27,
+   "n_neg": 40,
+   "modifier_used": ""
+  }
+ }
+}

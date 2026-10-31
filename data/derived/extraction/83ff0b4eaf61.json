@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820912090_upmc-memorial_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Memorial",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 112300957,
+ "seconds": 5,
+ "codes": {
+  "76770": {
+   "rows": 43,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 271.34,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 43,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 212.57,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 43,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 33.1,
+   "max": 589.04,
+   "median_neg": 163.15,
+   "n_neg": 35,
+   "modifier_used": ""
+  }
+ }
+}

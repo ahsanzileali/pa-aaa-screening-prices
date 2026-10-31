@@ -1,0 +1,9 @@
+price,grouping,hospitals,groups,icc,adj_r2
+Cash price,Health system,94,23.0,0.857,0.836
+Cash price,County,94,42.0,0.15,0.077
+Cash price,Hospital referral region,94,15.0,0.144,0.102
+Cash price,Within-county share of variance,94,,0.686,
+Median negotiated rate,Health system,101,24.0,0.74,0.565
+Median negotiated rate,County,101,42.0,0.053,0.254
+Median negotiated rate,Hospital referral region,101,15.0,0.107,0.095
+Median negotiated rate,Within-county share of variance,101,,0.543,

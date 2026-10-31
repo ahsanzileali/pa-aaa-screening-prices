@@ -1,0 +1,65 @@
+{
+ "url": "https://content.wellspan.org/MRF/231352222_york-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "York Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 86660145,
+ "seconds": 420,
+ "codes": {
+  "76775": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Limited Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 766.0,
+   "gross_n_distinct": 1,
+   "cash": 612.8,
+   "min": 61.25,
+   "max": 727.7,
+   "median_neg": 156.18,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound Scan of Abdominal Aorta"
+   ],
+   "gross": 627.0,
+   "gross_n_distinct": 1,
+   "cash": 501.6,
+   "min": 62.64,
+   "max": 641.84,
+   "median_neg": 156.18,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 966.0,
+   "gross_n_distinct": 1,
+   "cash": 772.8,
+   "min": 61.25,
+   "max": 917.7,
+   "median_neg": 156.18,
+   "n_neg": 43,
+   "modifier_used": ""
+  }
+ }
+}

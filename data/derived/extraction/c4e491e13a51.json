@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/274814831_upmc-east_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC East",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 132896916,
+ "seconds": 44,
+ "codes": {
+  "76770": {
+   "rows": 56,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 2001.0,
+   "gross_n_distinct": 1,
+   "cash": 1200.6,
+   "min": 89.65,
+   "max": 1600.8,
+   "median_neg": 285.52,
+   "n_neg": 41,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 56,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1489.0,
+   "gross_n_distinct": 1,
+   "cash": 893.4,
+   "min": 83.73,
+   "max": 1191.2,
+   "median_neg": 218.31,
+   "n_neg": 41,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 56,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 447.05,
+   "median_neg": 119.09,
+   "n_neg": 41,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,5 @@
+location-name: Chan Soon Shiong Medical Center at Windber
+source-page-url: https://www.windbercare.org/price-transparency/
+mrf-url: https://www.windbercare.org/251244202_Chan-Soon-Shiong-Medical-Center-at-Windber_standardcharges.csv
+contact-name: Adam Stahl
+contact-email: astahl@windbercare.org

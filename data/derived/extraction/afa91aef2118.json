@@ -1,0 +1,65 @@
+{
+ "url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/25-1550350_stlukeshospitalminerscampus_standardcharges.ashx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "St Luke's Hospital - Miners Campus",
+ "last_updated": "2026-02-27",
+ "error": "",
+ "bytes": 267727587,
+ "seconds": 11,
+ "codes": {
+  "76770": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 2168.0,
+   "gross_n_distinct": 1,
+   "cash": 1951.2,
+   "min": 81.5,
+   "max": 1795.54,
+   "median_neg": 113.39,
+   "n_neg": 24,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 1569.0,
+   "gross_n_distinct": 1,
+   "cash": 1412.1,
+   "min": 76.12,
+   "max": 1299.45,
+   "median_neg": 111.26,
+   "n_neg": 24,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 827.0,
+   "gross_n_distinct": 1,
+   "cash": 744.3,
+   "min": 72.4,
+   "max": 684.92,
+   "median_neg": 111.26,
+   "n_neg": 24,
+   "modifier_used": ""
+  }
+ }
+}

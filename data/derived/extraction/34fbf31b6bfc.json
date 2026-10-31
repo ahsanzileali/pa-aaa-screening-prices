@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/231360851_upmc-hanover_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Hanover",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 113761809,
+ "seconds": 4,
+ "codes": {
+  "76770": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 183.76,
+   "n_neg": 36,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 183.76,
+   "n_neg": 36,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 65.64,
+   "max": 589.04,
+   "median_neg": 141.91,
+   "n_neg": 36,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,5 @@
+location-name: Lower Bucks Hospital
+source-page-url: https://lowerbuckshosp.com/financial-assistance/
+mrf-url: https://lowerbuckshosp.com/wp-content/uploads/2026/09/911120_LowerBucksHospital_standardcharges.json
+contact-name: Ken Wheeler
+contact-email: KWheeler@primehealthcare.com

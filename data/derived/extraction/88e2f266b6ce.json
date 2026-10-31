@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232176963_upmc-wellsboro_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Wellsboro",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 158804135,
+ "seconds": 55,
+ "codes": {
+  "76775": {
+   "rows": 78,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1163.0,
+   "gross_n_distinct": 2,
+   "cash": 844.0,
+   "min": 62.72,
+   "max": 1104.85,
+   "median_neg": 240.74,
+   "n_neg": 58,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 78,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1221.0,
+   "gross_n_distinct": 2,
+   "cash": 886.4,
+   "min": 62.72,
+   "max": 1159.95,
+   "median_neg": 262.515,
+   "n_neg": 58,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 78,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 457.0,
+   "gross_n_distinct": 2,
+   "cash": 331.2,
+   "min": 64.14,
+   "max": 434.15,
+   "median_neg": 119.09,
+   "n_neg": 58,
+   "modifier_used": ""
+  }
+ }
+}

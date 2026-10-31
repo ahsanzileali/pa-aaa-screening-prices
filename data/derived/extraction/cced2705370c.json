@@ -1,0 +1,66 @@
+{
+ "url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/231365353_lancaster-general-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Lancaster General Health",
+ "last_updated": "    2026-10-22",
+ "error": "",
+ "bytes": 493290552,
+ "seconds": 16,
+ "codes": {
+  "76775": {
+   "rows": 16,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC IR US LTD RENAL WITH IMAGING",
+    "HC US AORTA"
+   ],
+   "gross": 840.0,
+   "gross_n_distinct": 1,
+   "cash": 840.0,
+   "min": 49.0,
+   "max": 13500.0,
+   "median_neg": 119.595,
+   "n_neg": 304,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 8,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC WELCOME TO MEDICARE US ABDOMINAL AORTA"
+   ],
+   "gross": 840.0,
+   "gross_n_distinct": 1,
+   "cash": 840.0,
+   "min": 50.11,
+   "max": 13500.0,
+   "median_neg": 145.06,
+   "n_neg": 152,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 8,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RENAL"
+   ],
+   "gross": 840.0,
+   "gross_n_distinct": 1,
+   "cash": 840.0,
+   "min": 49.0,
+   "max": 13500.0,
+   "median_neg": 155.20999999999998,
+   "n_neg": 152,
+   "modifier_used": ""
+  }
+ }
+}

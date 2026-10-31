@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Insurance Coverage Provides Low and Consistent Prices for Abdominal Aortic Aneurysm Screening Compared With Variable Hospital Self-Pay Prices Set by Health System Policies: code and data"
+authors:
+  - family-names: Zil-E-Ali
+    given-names: Ahsan
+    affiliation: "Division of Vascular Surgery, Penn State Milton S. Hershey Medical Center"
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/ahsanzileali/pa-aaa-screening-prices"
+keywords:
+  - abdominal aortic aneurysm
+  - screening
+  - hospital price transparency
+  - health systems

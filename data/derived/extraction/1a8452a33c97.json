@@ -1,0 +1,60 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965429_upmc-mercy_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Mercy",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 199073957,
+ "seconds": 6,
+ "codes": {
+  "76770": {
+   "rows": 55,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1177.0,
+   "gross_n_distinct": 1,
+   "cash": 706.2,
+   "min": 84.51,
+   "max": 1059.3,
+   "median_neg": 361.635,
+   "n_neg": 38,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 55,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1129.0,
+   "gross_n_distinct": 1,
+   "cash": 677.4,
+   "min": 83.73,
+   "max": 1016.1,
+   "median_neg": 314.605,
+   "n_neg": 38,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

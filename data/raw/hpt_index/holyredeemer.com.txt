@@ -1,0 +1,5 @@
+location-name: Holy Redeemer Hospital
+source-page-url: https://search.hospitalpriceindex.com/hpi2/machineReadable/RedeemerHealth/8118
+mrf-url: https://sthpiprd.blob.core.windows.net/machine-readable-files/8118/231534300_holy-redeemer-health-system_standardcharges.csv
+contact-name: Eric Reyes
+contact-email: ereyes3@redeemerhealth.org

@@ -1,0 +1,65 @@
+{
+ "url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/230469150_the-chester-county-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "The Chester County Hospital",
+ "last_updated": "    2026-10-21",
+ "error": "",
+ "bytes": 476216540,
+ "seconds": 1071,
+ "codes": {
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORTA SCREEN AAA"
+   ],
+   "gross": 1070.0,
+   "gross_n_distinct": 1,
+   "cash": 1070.0,
+   "min": 50.11,
+   "max": 1070.0,
+   "median_neg": 199.78,
+   "n_neg": 71,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL RENAL LTD"
+   ],
+   "gross": 1070.0,
+   "gross_n_distinct": 1,
+   "cash": 1070.0,
+   "min": 49.0,
+   "max": 1070.0,
+   "median_neg": 177.23,
+   "n_neg": 71,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC ULTRASD RETROPERITONEUM COMP"
+   ],
+   "gross": 1443.0,
+   "gross_n_distinct": 1,
+   "cash": 1443.0,
+   "min": 49.0,
+   "max": 1443.0,
+   "median_neg": 199.78,
+   "n_neg": 71,
+   "modifier_used": ""
+  }
+ }
+}

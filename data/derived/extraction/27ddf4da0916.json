@@ -1,0 +1,66 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250965570_upmc-somerset_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Somerset",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 72201863,
+ "seconds": 21,
+ "codes": {
+  "76770": {
+   "rows": 84,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABDOMN/BACK WALL MD",
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 3,
+   "cash": 394.2,
+   "min": 56.35,
+   "max": 492.75,
+   "median_neg": 113.6,
+   "n_neg": 69,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 28,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 40.2,
+   "max": 492.75,
+   "median_neg": 109.48,
+   "n_neg": 23,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 56,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 2,
+   "cash": 394.2,
+   "min": 56.35,
+   "max": 492.75,
+   "median_neg": 109.48,
+   "n_neg": 46,
+   "modifier_used": ""
+  }
+ }
+}

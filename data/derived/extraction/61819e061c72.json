@@ -1,0 +1,65 @@
+{
+ "url": "https://www.acmh.org/Files/Admin/250965237_Armstrong-County-Memorial-Hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Armstrong County Memorial Hospital",
+ "last_updated": "    2026-03-02",
+ "error": "",
+ "bytes": 77326811,
+ "seconds": 4,
+ "codes": {
+  "76706": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ABDOMINAL AORTA ANEURYSM SCREE"
+   ],
+   "gross": 388.0,
+   "gross_n_distinct": 1,
+   "cash": 116.4,
+   "min": 55.12,
+   "max": 388.0,
+   "median_neg": 115.63,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "RETROPERITONEAL LIMITED"
+   ],
+   "gross": 408.0,
+   "gross_n_distinct": 1,
+   "cash": 122.4,
+   "min": 53.9,
+   "max": 408.0,
+   "median_neg": 102.015,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEUM COMPLETE"
+   ],
+   "gross": 388.0,
+   "gross_n_distinct": 1,
+   "cash": 116.4,
+   "min": 53.9,
+   "max": 388.0,
+   "median_neg": 107.495,
+   "n_neg": 40,
+   "modifier_used": ""
+  }
+ }
+}

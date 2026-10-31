@@ -1,0 +1,68 @@
+{
+ "url": "https://hpt.trinity-health.org/232794121_nazareth-hospital_standardcharges.zip",
+ "format": "ZIP CSV-tall",
+ "hospital_name_in_file": "Nazareth Hospital",
+ "last_updated": "2026-03-31",
+ "error": "",
+ "bytes": 106034842,
+ "seconds": 70,
+ "codes": {
+  "76770": {
+   "rows": 43,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "HC US Retroperitioneal Complete"
+   ],
+   "gross": 950.0,
+   "gross_n_distinct": 1,
+   "cash": 617.5,
+   "min": 90.16,
+   "max": 931.0,
+   "median_neg": 205.12,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1603,
+   "settings": [
+    "both",
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US Abdomen Aorta Screening Study Aaa",
+    "PR US Abdomen Aorta Screening Study Aaa"
+   ],
+   "gross": 609.0,
+   "gross_n_distinct": 1,
+   "cash": 395.85,
+   "min": 16.4,
+   "max": 748.91,
+   "median_neg": 107.86,
+   "n_neg": 850,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1581,
+   "settings": [
+    "both",
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US Retroperitoneal Limited",
+    "PR US Retroperitoneal Limited"
+   ],
+   "gross": 847.0,
+   "gross_n_distinct": 1,
+   "cash": 550.55,
+   "min": 17.47,
+   "max": 830.06,
+   "median_neg": 76.12,
+   "n_neg": 828,
+   "modifier_used": ""
+  }
+ }
+}

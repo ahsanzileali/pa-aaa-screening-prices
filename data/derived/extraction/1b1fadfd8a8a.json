@@ -1,0 +1,62 @@
+{
+ "url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/hazleton",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 443325319,
+ "seconds": 29,
+ "codes": {
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 87.54,
+   "max": 628.28,
+   "median_neg": 111.51,
+   "n_neg": 37,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 83.26,
+   "max": 628.28,
+   "median_neg": 111.51,
+   "n_neg": 37,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 87.76,
+   "max": 628.28,
+   "median_neg": 113.575,
+   "n_neg": 37,
+   "modifier_used": ""
+  }
+ }
+}

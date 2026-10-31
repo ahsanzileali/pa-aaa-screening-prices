@@ -1,0 +1,39 @@
+cms-hpt.txt
+
+location-name: Penn State Health Hampden Medical Center
+source-page-url: https://www.pennstatehealth.org/patients-visitors/billing-medical-records/hospital-price-transparency
+mrf-url: https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/851608328_penn-state-health-hampden-medical-center_standardcharges.csv
+contact-name: Mark Goga 
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+location-name: Penn State Health Milton S. Hershey Medical Center
+source-page-url: https://www.pennstatehealth.org/patients-visitors/billing-medical-records/hospital-price-transparency
+mrf-url: https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/251854772_the-milton-s.-hershey-medical-center_standardcharges.csv
+contact-name: Mark Goga
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+location-name: Penn State Health Holy Spirit Medical Center
+source-page-url: https://www.pennstatehealth.org/patients-visitors/billing-medical-records/hospital-price-transparency
+mrf-url: https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/231512747_penn-state-health-holy-spirit-medical-center_standardcharges.csv
+contact-name: Mark Goga
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+location-name: Penn State Health Lancaster Medical Center
+source-page-url: https://www.pennstatehealth.org/patients-visitors/billing-medical-records/hospital-price-transparency
+mrf-url: https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/851620990_penn-state-health-lancaster-medical-center_standardcharges.csv
+contact-name: Mark Goga
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+location-name: Penn State Health St. Joseph Medical Center
+source-page-url: https://www.pennstatehealth.org/patients-visitors/billing-medical-records/hospital-price-transparency
+mrf-url: https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/231352211_st.-joseph-regional-health-network-dba-st.-joseph-medical-center_standardcharges.csv
+contact-name: Mark Goga
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+location-name: Pennsylvania Psychiatric Institute
+source-page-url: https://ppimhs.org/patients/patient-billing-information/
+mrf-url: https://ppimhs.org/wp-content/uploads/2026/03/261699000_pennsylvania-psychiatric-institute_standardcharges.csv
+contact-name: Mark Goga
+contact-email: priceestimate@pennstatehealth.psu.edu
+
+

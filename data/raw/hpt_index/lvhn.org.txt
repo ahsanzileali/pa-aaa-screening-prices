@@ -1,0 +1,101 @@
+location-name: Lehigh Valley Hospital
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Cedar Crest
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Muhlenberg
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Hecktown Oaks
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Reilly Children's
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - 17th Street
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Carbon
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Highland Avenue
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - 1503 N. Cedar Crest
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Tilghman
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Dickson City
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/dicksoncity
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Hazleton
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/hazleton
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+Location-name: CHP-LVHN JV, LLC d/b/a Lehigh Valley Hospital - Macungie
+Source-page-url: https://www.lvhn.org/get-price-quote
+Mrf-url:https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/Macungie
+Contact-name: PriceTransparencyMRF Team
+Contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: CHP-LVHN JV, LLC d/b/a Lehigh Valley Hospital - Gilbertsville
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/gilbertsville
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+location-name: Lehigh Valley Hospital - Pocono
+source-page-url: https://www.lvhn.org/get-price-quote
+mrf-url: https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/pocono
+contact-name: PriceTransparencyMRF Team
+contact-email: PriceTransparencyMRF@jefferson.edu
+
+Location-name: Lehigh Valley Hospital - Schuylkill S. Jackson Street
+Source-page-url: https://www.lvhn.org/get-price-quote
+Mrf-url:https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/Schuylkill
+Contact-name: PriceTransparencyMRF Team
+Contact-email: PriceTransparencyMRF@jefferson.edu
+
+Location-name: Lehigh Valley Hospital - Schuylkill E. Norwegian Street
+Source-page-url: https://www.lvhn.org/get-price-quote
+Mrf-url:https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/Schuylkill
+Contact-name: PriceTransparencyMRF Team
+Contact-email: PriceTransparencyMRF@jefferson.edu

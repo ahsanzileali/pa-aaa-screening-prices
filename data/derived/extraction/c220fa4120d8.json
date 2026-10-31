@@ -1,0 +1,62 @@
+{
+ "url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/dicksoncity",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 413881750,
+ "seconds": 26,
+ "codes": {
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 83.73,
+   "max": 619.64,
+   "median_neg": 109.9764,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 79.64,
+   "max": 619.64,
+   "median_neg": 107.9398,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 86.56,
+   "max": 619.64,
+   "median_neg": 110.84,
+   "n_neg": 35,
+   "modifier_used": ""
+  }
+ }
+}

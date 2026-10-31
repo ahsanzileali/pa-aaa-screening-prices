@@ -1,0 +1,23 @@
+location-name: Phoenixville Hospital
+source-page-url: https://towerhealth.org/price-transparency
+mrf-url: https://towerhealth.org/sites/default/files/pricing/82-2062413_Phoenixville-Hospital_StandardCharges.csv
+contact-name: Chuck Valentino
+contact-email: charles.valentino@towerhealth.org
+
+location-name: Pottstown Hospital
+source-page-url: https://towerhealth.org/price-transparency
+mrf-url: https://towerhealth.org/sites/default/files/pricing/82-2132538_Pottstown-Hospital_StandardCharges.csv
+contact-name: Chuck Valentino
+contact-email: charles.valentino@towerhealth.org
+
+location-name: Reading Hospital
+source-page-url: https://towerhealth.org/price-transparency
+mrf-url: https://towerhealth.org/sites/default/files/pricing/23-1352204_Reading-Hospital_StandardCharges.csv
+contact-name: Chuck Valentino
+contact-email: charles.valentino@towerhealth.org
+
+location-name: St. Christopher's Hospital For Children
+source-page-url: https://towerhealth.org/price-transparency
+mrf-url: https://towerhealth.org/sites/default/files/pricing/84-3224793_StChristophers-Hospital-For-Children_StandardCharges.csv
+contact-name: Chuck Valentino
+contact-email: charles.valentino@towerhealth.org

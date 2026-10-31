@@ -1,0 +1,65 @@
+{
+ "url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352213_stlukeshospitalbethlehemcampus_standardcharges.ashx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "St Luke's Hospital - Bethlehem Campus",
+ "last_updated": "2026-02-26",
+ "error": "",
+ "bytes": 302038403,
+ "seconds": 12,
+ "codes": {
+  "76770": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 2366.0,
+   "gross_n_distinct": 1,
+   "cash": 1963.78,
+   "min": 81.5,
+   "max": 825.73,
+   "median_neg": 117.36,
+   "n_neg": 27,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 1712.0,
+   "gross_n_distinct": 1,
+   "cash": 1420.96,
+   "min": 76.12,
+   "max": 597.49,
+   "median_neg": 114.31,
+   "n_neg": 27,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 902.0,
+   "gross_n_distinct": 1,
+   "cash": 748.66,
+   "min": 72.4,
+   "max": 468.9,
+   "median_neg": 114.31,
+   "n_neg": 27,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/pocono",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 386246587,
+ "seconds": 14517,
+ "codes": {
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 89.65,
+   "max": 665.39,
+   "median_neg": 118.098,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 79.64,
+   "max": 665.39,
+   "median_neg": 115.911,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 83.73,
+   "max": 665.39,
+   "median_neg": 115.911,
+   "n_neg": 35,
+   "modifier_used": ""
+  }
+ }
+}

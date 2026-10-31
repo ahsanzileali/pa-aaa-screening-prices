@@ -1,0 +1,65 @@
+{
+ "url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231370484_ephrata-community-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Ephrata Community Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 42092280,
+ "seconds": 5,
+ "codes": {
+  "76770": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1707.0,
+   "gross_n_distinct": 1,
+   "cash": 1365.6,
+   "min": 61.25,
+   "max": 1452.66,
+   "median_neg": 198.0,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound Scan of Abdominal Aorta"
+   ],
+   "gross": 869.0,
+   "gross_n_distinct": 1,
+   "cash": 695.2,
+   "min": 62.64,
+   "max": 739.52,
+   "median_neg": 179.725,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Limited Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1126.0,
+   "gross_n_distinct": 1,
+   "cash": 900.8,
+   "min": 61.25,
+   "max": 958.23,
+   "median_neg": 198.18,
+   "n_neg": 43,
+   "modifier_used": ""
+  }
+ }
+}

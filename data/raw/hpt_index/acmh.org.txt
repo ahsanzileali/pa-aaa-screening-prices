@@ -1,0 +1,5 @@
+location-name: Armstrong County Memorial Hospital
+source-page-url: https://www.acmh.org/billing-and-insurance
+mrf-url: https://www.acmh.org/Files/Admin/250965237_Armstrong-County-Memorial-Hospital_standardcharges.csv
+contact-name: Matthew Beck
+contact-email: mbeck@pmhalliance.org

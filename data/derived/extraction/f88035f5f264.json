@@ -1,0 +1,71 @@
+{
+ "url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/231352174_doylestown-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Doylestown Hospital",
+ "last_updated": "    2026-08-27",
+ "error": "",
+ "bytes": 33993678,
+ "seconds": 1,
+ "codes": {
+  "76770": {
+   "rows": 24,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "U/S RENAL WITH BLADDER",
+    "U/S RETROPERITONEAL COMP-AORTA",
+    "US ABD AORTA"
+   ],
+   "gross": 1373.0,
+   "gross_n_distinct": 2,
+   "cash": 1373.0,
+   "min": 102.85,
+   "max": 1373.0,
+   "median_neg": 276.7,
+   "n_neg": 152,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 12,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABD AORTA (AA) SCREENING",
+    "US ABD AORTA (AA) SCREENING)",
+    "US ABD AORTA (AAA) SCREENING"
+   ],
+   "gross": 1016.0,
+   "gross_n_distinct": 1,
+   "cash": 1016.0,
+   "min": 102.85,
+   "max": 1016.0,
+   "median_neg": 236.82,
+   "n_neg": 76,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 9,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "U/S RENAL ONLY W/O BLADDER",
+    "U/S RENAL WITHOUT BLADDER",
+    "US RENAL ONLY W/O BLADDER"
+   ],
+   "gross": 1019.0,
+   "gross_n_distinct": 2,
+   "cash": 1019.0,
+   "min": 102.85,
+   "max": 1019.0,
+   "median_neg": 219.26,
+   "n_neg": 57,
+   "modifier_used": ""
+  }
+ }
+}

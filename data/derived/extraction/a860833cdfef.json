@@ -1,0 +1,65 @@
+{
+ "url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/82-4432109_geisingerstlukeshospitalorwigsburgcamups_standardcharges.ashx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Geisinger St Luke's Hospital - Orwigsburg Campus",
+ "last_updated": "2026-02-26",
+ "error": "",
+ "bytes": 282406813,
+ "seconds": 15,
+ "codes": {
+  "76770": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 2168.0,
+   "gross_n_distinct": 1,
+   "cash": 1951.2,
+   "min": 94.54,
+   "max": 750.13,
+   "median_neg": 112.74000000000001,
+   "n_neg": 22,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 1569.0,
+   "gross_n_distinct": 1,
+   "cash": 1412.1,
+   "min": 88.3,
+   "max": 562.77,
+   "median_neg": 112.74000000000001,
+   "n_neg": 22,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 827.0,
+   "gross_n_distinct": 1,
+   "cash": 744.3,
+   "min": 83.98,
+   "max": 468.9,
+   "median_neg": 112.74000000000001,
+   "n_neg": 22,
+   "modifier_used": ""
+  }
+ }
+}

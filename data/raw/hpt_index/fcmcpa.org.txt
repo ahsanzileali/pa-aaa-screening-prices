@@ -1,0 +1,5 @@
+location-name: Fulton County Medical Center
+source-page-url: https://www.fcmcpa.org/getpage.php?name=Pricing_Transparency
+mrf-url: https://www.fcmcpa.org/docs/231401561_fulton-county-medical-center_standardcharges.csv
+contact-name: Mackenzie Wentz
+contact-email: mwentz@fcmcpa.org

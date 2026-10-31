@@ -1,0 +1,5 @@
+location-name: Advanced Surgical Hospital
+source-page-url: https://www.ashospital.net/resources/pricing-transparency
+mrf-url: https://storage.googleapis.com/treatspace-prod-media/pracf/u-2709/264093335_advanced-surgical-hospital_standardcharges.csv
+contact-name: Diane Hritz
+contact-email: Diane.Hritz@scasurgery.com

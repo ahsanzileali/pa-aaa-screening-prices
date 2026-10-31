@@ -1,0 +1,63 @@
+{
+ "url": "https://hpt.trinity-health.org/231913910_st-mary-medical-center_standardcharges.zip",
+ "format": "ZIP CSV-tall",
+ "hospital_name_in_file": "St Mary Medical Center",
+ "last_updated": "2026-03-31",
+ "error": "",
+ "bytes": 136553278,
+ "seconds": 112,
+ "codes": {
+  "76775": {
+   "rows": 82,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US Retroperitoneal Limited"
+   ],
+   "gross": 1214.0,
+   "gross_n_distinct": 1,
+   "cash": 789.1,
+   "min": 54.38,
+   "max": 1153.3,
+   "median_neg": 135.25,
+   "n_neg": 82,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 100,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "HC US Abdomen Aorta Screening Study Aaa"
+   ],
+   "gross": 609.0,
+   "gross_n_distinct": 1,
+   "cash": 395.85,
+   "min": 66.99,
+   "max": 578.55,
+   "median_neg": 323.26,
+   "n_neg": 100,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 46,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "HC US Retroperitioneal Complete"
+   ],
+   "gross": 1250.0,
+   "gross_n_distinct": 1,
+   "cash": 812.5,
+   "min": 56.35,
+   "max": 1187.5,
+   "median_neg": 195.6,
+   "n_neg": 46,
+   "modifier_used": ""
+  }
+ }
+}

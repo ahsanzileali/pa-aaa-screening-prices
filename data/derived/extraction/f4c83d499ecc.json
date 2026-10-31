@@ -1,0 +1,62 @@
+{
+ "url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "HERITAGE VALLEY SEWICKLEY",
+ "last_updated": "2026-03-27",
+ "error": "",
+ "bytes": 66323553,
+ "seconds": 38,
+ "codes": {
+  "76770": {
+   "rows": 25,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 409.0,
+   "gross_n_distinct": 1,
+   "cash": 110.43,
+   "min": 49.0,
+   "max": 333.47,
+   "median_neg": 101.83,
+   "n_neg": 25,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 50,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ULTRASOUND AAA SCREEN"
+   ],
+   "gross": 436.0,
+   "gross_n_distinct": 1,
+   "cash": 117.72,
+   "min": 50.11,
+   "max": 356.04,
+   "median_neg": 101.83,
+   "n_neg": 50,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 50,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LTD"
+   ],
+   "gross": 307.0,
+   "gross_n_distinct": 1,
+   "cash": 82.89,
+   "min": 49.0,
+   "max": 250.25,
+   "median_neg": 101.83,
+   "n_neg": 50,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,5 @@
+location-name: Warren General Hospital
+source-page-url: https://www.wgh.org/price-transparency
+mrf-url: https://pub-dd9ed2ce8da741aba680475ac31af6a3.r2.dev/250965598-1659360220_warren-general-hospital_standardcharges.csv
+contact-name: Laurie MacDonald
+contact-email: lmacdonald@wgh.org

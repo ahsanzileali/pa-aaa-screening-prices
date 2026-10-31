@@ -1,0 +1,66 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Pinnacle Hospitals",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 108941822,
+ "seconds": 34,
+ "codes": {
+  "76706": {
+   "rows": 38,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 65.64,
+   "max": 558.45,
+   "median_neg": 131.4,
+   "n_neg": 31,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 114,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABDOMN/BACK WALL MD",
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 3,
+   "cash": 394.2,
+   "min": 56.8,
+   "max": 573.46,
+   "median_neg": 177.5,
+   "n_neg": 93,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 76,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 2,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 558.45,
+   "median_neg": 207.04,
+   "n_neg": 62,
+   "modifier_used": ""
+  }
+ }
+}

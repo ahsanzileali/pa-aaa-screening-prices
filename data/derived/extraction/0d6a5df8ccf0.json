@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231396795_upmc-bedford_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Bedford",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 82337335,
+ "seconds": 96,
+ "codes": {
+  "76775": {
+   "rows": 64,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1087.0,
+   "gross_n_distinct": 1,
+   "cash": 652.2,
+   "min": 36.58,
+   "max": 978.3,
+   "median_neg": 269.33,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 64,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1348.0,
+   "gross_n_distinct": 1,
+   "cash": 808.8,
+   "min": 36.58,
+   "max": 1213.2,
+   "median_neg": 361.71,
+   "n_neg": 43,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 64,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 36.58,
+   "max": 447.05,
+   "median_neg": 124.67,
+   "n_neg": 43,
+   "modifier_used": ""
+  }
+ }
+}

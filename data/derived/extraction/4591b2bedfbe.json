@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231352155_upmc-altoona_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Altoona",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 88460252,
+ "seconds": 28,
+ "codes": {
+  "76775": {
+   "rows": 23,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 954.0,
+   "gross_n_distinct": 1,
+   "cash": 572.4,
+   "min": 49.0,
+   "max": 763.2,
+   "median_neg": 118.05,
+   "n_neg": 19,
+   "modifier_used": "TC"
+  },
+  "76770": {
+   "rows": 23,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1211.0,
+   "gross_n_distinct": 1,
+   "cash": 726.6,
+   "min": 49.0,
+   "max": 968.8,
+   "median_neg": 164.47,
+   "n_neg": 19,
+   "modifier_used": "TC"
+  },
+  "76706": {
+   "rows": 23,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 40.61,
+   "max": 487.11,
+   "median_neg": 85.4,
+   "n_neg": 19,
+   "modifier_used": "TC"
+  }
+ }
+}

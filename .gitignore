@@ -1,0 +1,6 @@
+data/external/
+data/interim/
+results/figures/*.tiff
+__pycache__/
+.venv/
+.DS_Store

@@ -1,0 +1,29 @@
+location-name: Westmoreland Regional Hospital
+source-page-url: https://www.independence.health/patients-visitors/financial-services/price-transparency/ 
+mrf-url: https://www.independence.health/documents/content/250965612_WestmorelandRegionalHospital_StandardCharges.csv 
+contact-name: Karen Campbell
+contact-email: Karen.Campbell@independence.health
+
+location-name: Latrobe Area Hospital
+source-page-url: https://www.independence.health/patients-visitors/financial-services/price-transparency/ 
+mrf-url: https://www.independence.health/documents/content/250965414_LatrobeAreaHospital_StandardCharges.csv 
+contact-name: Karen Campbell
+contact-email: Karen.Campbell@independence.health
+
+location-name: Frick Hospital
+source-page-url: https://www.independence.health/patients-visitors/financial-services/price-transparency/ 
+mrf-url: https://www.independence.health/documents/content/250965375_FrickHospital_StandardCharges.csv 
+contact-name: Karen Campbell
+contact-email: Karen.Campbell@independence.health
+
+location-name: Butler Memorial Hospital
+source-page-url: https://www.independence.health/patients-visitors/financial-services/price-transparency/ 
+mrf-url: https://www.independence.health/documents/content/250965274_Butler-Memorial_StandardCharges.csv 
+contact-name: Karen Campbell
+contact-email: Karen.Campbell@independence.health
+
+location-name: Clarion Hospital
+source-page-url: https://www.independence.health/patients-visitors/financial-services/price-transparency/ 
+mrf-url: https://www.independence.health/documents/content/251010039_Butler-Clarion_standardcharges.csv 
+contact-name: Karen Campbell
+contact-email: Karen.Campbell@independence.health

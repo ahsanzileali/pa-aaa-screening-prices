@@ -1,0 +1,62 @@
+{
+ "url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Evangelical Community Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 7005673,
+ "seconds": 2,
+ "codes": {
+  "76770": {
+   "rows": 30,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1122.75,
+   "gross_n_distinct": 1,
+   "cash": 898.2,
+   "min": 89.65,
+   "max": 765.85,
+   "median_neg": 102.3,
+   "n_neg": 30,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 30,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Limited Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1070.75,
+   "gross_n_distinct": 1,
+   "cash": 856.6,
+   "min": 83.73,
+   "max": 602.31,
+   "median_neg": 102.3,
+   "n_neg": 30,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 30,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound Scan of Abdominal Aorta"
+   ],
+   "gross": 1069.25,
+   "gross_n_distinct": 1,
+   "cash": 855.4,
+   "min": 79.64,
+   "max": 817.69,
+   "median_neg": 102.3,
+   "n_neg": 30,
+   "modifier_used": ""
+  }
+ }
+}

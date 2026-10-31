@@ -1,0 +1,62 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250998168_upmc-kane_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Kane",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 64413053,
+ "seconds": 19,
+ "codes": {
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 79,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "PF RETROPERTONIUM",
+    "US RETROPERITONIUM"
+   ],
+   "gross": 880.0,
+   "gross_n_distinct": 2,
+   "cash": 528.0,
+   "min": 65.45,
+   "max": 19810.56,
+   "median_neg": 263.82,
+   "n_neg": 67,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 80,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED",
+    "US RETROPERITONIUM LIMITED"
+   ],
+   "gross": 503.0,
+   "gross_n_distinct": 1,
+   "cash": 301.8,
+   "min": 83.73,
+   "max": 11323.54,
+   "median_neg": 188.75,
+   "n_neg": 68,
+   "modifier_used": ""
+  }
+ }
+}

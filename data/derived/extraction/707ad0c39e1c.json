@@ -1,0 +1,65 @@
+{
+ "url": "https://www.fcmcpa.org/docs/231401561_fulton-county-medical-center_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Fulton County Medical Center",
+ "last_updated": "    2026-09-14",
+ "error": "",
+ "bytes": 28796482,
+ "seconds": 3,
+ "codes": {
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 574.0,
+   "gross_n_distinct": 2,
+   "cash": 401.8,
+   "min": 56.64,
+   "max": 516.6,
+   "median_neg": 234.495,
+   "n_neg": 32,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AORTA SCREENING"
+   ],
+   "gross": 574.0,
+   "gross_n_distinct": 2,
+   "cash": 401.8,
+   "min": 100.08,
+   "max": 516.6,
+   "median_neg": 234.495,
+   "n_neg": 32,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 951.0,
+   "gross_n_distinct": 2,
+   "cash": 665.7,
+   "min": 102.08,
+   "max": 855.9,
+   "median_neg": 357.32,
+   "n_neg": 32,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "url": "https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/251854772_the-milton-s.-hershey-medical-center_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Penn State Health Milton S. Hershey Medical Center",
+ "last_updated": "3/27/2026",
+ "error": "",
+ "bytes": 123472386,
+ "seconds": 6,
+ "codes": {
+  "76775": {
+   "rows": 5,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76775 ECHOgraphy Retroperitoneal Limited",
+    "US 76775 Renal Limited POC",
+    "US Aorta - Report"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 176.25,
+   "min": 94.25,
+   "max": 596.28,
+   "median_neg": 115.32,
+   "n_neg": 195,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76706 Us Abdominal Aorta Real Time Screen Study",
+    "G0389 U/S Aaa Screen Medicare",
+    "US Screening Aorta for Aneurysm - Report"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 176.25,
+   "min": 94.25,
+   "max": 596.28,
+   "median_neg": 115.32,
+   "n_neg": 156,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US Retroperitoneal Complete - Report"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 176.25,
+   "min": 94.25,
+   "max": 596.28,
+   "median_neg": 115.32,
+   "n_neg": 39,
+   "modifier_used": ""
+  }
+ }
+}

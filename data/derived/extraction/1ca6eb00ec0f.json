@@ -1,0 +1,66 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240802108_upmc-cole_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Cole",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 66556104,
+ "seconds": 18,
+ "codes": {
+  "76770": {
+   "rows": 39,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "PHCUS RETROPERITONEAL"
+   ],
+   "gross": 675.0,
+   "gross_n_distinct": 1,
+   "cash": 405.0,
+   "min": 85.58,
+   "max": 540.0,
+   "median_neg": 205.88,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 39,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "PHCUS RENAL"
+   ],
+   "gross": 238.0,
+   "gross_n_distinct": 1,
+   "cash": 142.8,
+   "min": 58.2,
+   "max": 314.22,
+   "median_neg": 114.79,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 78,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "PHCUS MEDICARE AORTA SCREENING",
+    "US MEDICARE AORTA SCREENING"
+   ],
+   "gross": 563.0,
+   "gross_n_distinct": 1,
+   "cash": 337.8,
+   "min": 76.02,
+   "max": 531.26,
+   "median_neg": 170.25,
+   "n_neg": 66,
+   "modifier_used": ""
+  }
+ }
+}

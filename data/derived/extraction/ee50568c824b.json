@@ -1,0 +1,55 @@
+{
+ "url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/232899911_wellspan-surgery-and-rehabilitation-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "WellSpan Surgery and Rehabilitation Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 28174927,
+ "seconds": 3,
+ "codes": {
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 52,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 966.0,
+   "gross_n_distinct": 1,
+   "cash": 772.8,
+   "min": 61.25,
+   "max": 937.02,
+   "median_neg": 157.51,
+   "n_neg": 41,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

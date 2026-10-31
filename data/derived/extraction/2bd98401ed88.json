@@ -1,0 +1,69 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/09/251010039_Butler-Clarion_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Clarion Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 61945456,
+ "seconds": 3,
+ "codes": {
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US Abd AortaAaaScreen",
+    "Us abdl aorta screen aaa"
+   ],
+   "gross": 817.0,
+   "gross_n_distinct": 1,
+   "cash": 457.52,
+   "min": 62.64,
+   "max": 727.13,
+   "median_neg": 118.715,
+   "n_neg": 46,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US Retroperi Aorta Limited",
+    "Us exam abdo back wall lim"
+   ],
+   "gross": 656.0,
+   "gross_n_distinct": 1,
+   "cash": 367.36,
+   "min": 56.11,
+   "max": 583.84,
+   "median_neg": 113.56,
+   "n_neg": 47,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 6,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US Retroperitoneal Complete",
+    "US Retroperitoneal Limited",
+    "Us exam abdo back wall comp"
+   ],
+   "gross": 650.0,
+   "gross_n_distinct": 1,
+   "cash": 364.0,
+   "min": 61.25,
+   "max": 578.5,
+   "median_neg": 227.5,
+   "n_neg": 61,
+   "modifier_used": ""
+  }
+ }
+}

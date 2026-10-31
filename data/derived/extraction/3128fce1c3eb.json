@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820880337_upmc-carlisle_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Carlisle",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 134676058,
+ "seconds": 45,
+ "codes": {
+  "76706": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 65.64,
+   "max": 589.04,
+   "median_neg": 160.88,
+   "n_neg": 42,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 207.04,
+   "n_neg": 42,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 54,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 257.21500000000003,
+   "n_neg": 42,
+   "modifier_used": ""
+  }
+ }
+}

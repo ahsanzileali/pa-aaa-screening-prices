@@ -1,0 +1,23 @@
+location-name: Conemaugh Memorial Medical Center
+source-page-url: https://www.conemaugh.org/hospital-charges-listing
+mrf-url: https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q262/611739000_conemaugh-memorial-medical-center_standardcharges.csv.zip
+contact-name: Tina Barsallo
+contact-email: price.transparency@lpnt.net
+
+location-name: Conemaugh Meyersdale Medical Center
+source-page-url: https://www.conemaugh.org/hospital-charges-listing
+mrf-url: https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q263/364787404_conemaugh-meyersdale-medical-center_standardcharges.csv
+contact-name: Tina Barsallo
+contact-email: price.transparency@lpnt.net
+
+location-name: Conemaugh Miners Medical Center
+source-page-url: https://www.conemaugh.org/hospital-charges-listing
+mrf-url: https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q262/320442133_conemaugh-miners-medical-center_standardcharges.csv
+contact-name: Tina Barsallo
+contact-email: price.transparency@lpnt.net
+
+location-name: Conemaugh Nason Medical Center
+source-page-url: https://www.conemaugh.org/hospital-charges-listing
+mrf-url: https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q262/472546387_nason-hospital_standardcharges.csv
+contact-name: Tina Barsallo
+contact-email: price.transparency@lpnt.net

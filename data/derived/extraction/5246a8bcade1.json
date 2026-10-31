@@ -1,0 +1,68 @@
+{
+ "url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/231352160_the-bryn-mawr-hospital_standardcharges.xlsx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "The Bryn Mawr Hospital",
+ "last_updated": "4/1/2026",
+ "error": "",
+ "bytes": 47510443,
+ "seconds": 2,
+ "codes": {
+  "76706": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Aaa Screening",
+    "Us abdl aorta screen aaa"
+   ],
+   "gross": 533.0,
+   "gross_n_distinct": 1,
+   "cash": 213.2,
+   "min": 108.32,
+   "max": 298.05,
+   "median_neg": 128.35500000000002,
+   "n_neg": 18,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Retroperitoneal Complete",
+    "Us exam abdo back wall comp"
+   ],
+   "gross": 2900.0,
+   "gross_n_distinct": 1,
+   "cash": 1160.0,
+   "min": 108.32,
+   "max": 348.25,
+   "median_neg": 128.35500000000002,
+   "n_neg": 18,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Retroperitoneal Limited",
+    "Us exam abdo back wall lim"
+   ],
+   "gross": 1473.0,
+   "gross_n_distinct": 1,
+   "cash": 589.2,
+   "min": 74.26,
+   "max": 260.4,
+   "median_neg": 119.69,
+   "n_neg": 18,
+   "modifier_used": ""
+  }
+ }
+}

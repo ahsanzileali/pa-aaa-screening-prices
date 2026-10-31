@@ -1,0 +1,66 @@
+{
+ "url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital-inc-main-campus_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Temple University Hospital, Inc.- Main Campus",
+ "last_updated": "2026-04-13",
+ "error": "",
+ "bytes": 125014482,
+ "seconds": 5,
+ "codes": {
+  "76775": {
+   "rows": 98,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC POCUS RETROPERITONEAL: AORTA, RENAL; LIMITED",
+    "HC US RETROPERITONEAL, LTD"
+   ],
+   "gross": 2335.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 52.97,
+   "max": 793.9,
+   "median_neg": 154.9,
+   "n_neg": 92,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORT ANEUR (AAA) SCRN"
+   ],
+   "gross": 2122.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 65.76,
+   "max": 721.48,
+   "median_neg": 152.48000000000002,
+   "n_neg": 46,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL,COMPL"
+   ],
+   "gross": 3240.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 52.97,
+   "max": 1101.6,
+   "median_neg": 154.9,
+   "n_neg": 46,
+   "modifier_used": ""
+  }
+ }
+}

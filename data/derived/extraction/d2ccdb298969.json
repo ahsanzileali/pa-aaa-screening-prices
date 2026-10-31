@@ -1,0 +1,62 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/08/550611919_Braxton-County-Memorial-Hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Braxton County Memorial Hospital",
+ "last_updated": "7/11/2026",
+ "error": "",
+ "bytes": 23529080,
+ "seconds": 2,
+ "codes": {
+  "76770": {
+   "rows": 2,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 840.0,
+   "gross_n_distinct": 2,
+   "cash": 420.0,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 738.0,
+   "gross_n_distinct": 3,
+   "cash": 369.0,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 3,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 455.0,
+   "gross_n_distinct": 3,
+   "cash": 227.5,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

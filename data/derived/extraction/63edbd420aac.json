@@ -1,0 +1,65 @@
+{
+ "url": "https://commonwealthhealth.net/wp-content/uploads/sheets/263632648_wilkes-barre-general-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Wilkes-Barre General Hospital",
+ "last_updated": "    2024-12-01",
+ "error": "",
+ "bytes": 171155454,
+ "seconds": 193,
+ "codes": {
+  "76706": {
+   "rows": 18,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMN AAA SCREEN"
+   ],
+   "gross": 761.0,
+   "gross_n_distinct": 1,
+   "cash": 182.64,
+   "min": 50.11,
+   "max": 1095.0,
+   "median_neg": 124.74,
+   "n_neg": 342,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 18,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMEN RETRO LMT"
+   ],
+   "gross": 1530.0,
+   "gross_n_distinct": 1,
+   "cash": 367.2,
+   "min": 49.0,
+   "max": 1415.25,
+   "median_neg": 127.75,
+   "n_neg": 342,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 18,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMEN RETROPER"
+   ],
+   "gross": 1136.0,
+   "gross_n_distinct": 1,
+   "cash": 272.64,
+   "min": 49.0,
+   "max": 1095.0,
+   "median_neg": 124.74,
+   "n_neg": 342,
+   "modifier_used": ""
+  }
+ }
+}

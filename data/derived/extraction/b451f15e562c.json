@@ -1,0 +1,68 @@
+{
+ "url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "WEST PENN ALLEGHENY HEALTH SYSTEM INC",
+ "last_updated": "2026-04-14",
+ "error": "",
+ "bytes": 298558192,
+ "seconds": 34,
+ "codes": {
+  "76706": {
+   "rows": 129,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "CHG US ABDOMINAL AORTA REAL TIME SCREEN STUDY AAA",
+    "HC US AAA SCREENING"
+   ],
+   "gross": 758.0,
+   "gross_n_distinct": 2,
+   "cash": 560.92,
+   "min": 23.4,
+   "max": 339.88,
+   "median_neg": 118.17,
+   "n_neg": 115,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 129,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "CHG US RETROPERITONEAL REAL TIME W/IMAGE LIMITED",
+    "HC US RPERIT LTD"
+   ],
+   "gross": 758.0,
+   "gross_n_distinct": 2,
+   "cash": 560.92,
+   "min": 28.48,
+   "max": 339.88,
+   "median_neg": 106.39,
+   "n_neg": 115,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 129,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "CHG US RETROPERITONEAL REAL TIME W/IMAGE COMPLETE",
+    "HC US RPERIT COMPLT"
+   ],
+   "gross": 758.0,
+   "gross_n_distinct": 2,
+   "cash": 560.92,
+   "min": 34.13,
+   "max": 339.88,
+   "median_neg": 130.4,
+   "n_neg": 115,
+   "modifier_used": ""
+  }
+ }
+}

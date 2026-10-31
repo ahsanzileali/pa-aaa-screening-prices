@@ -1,0 +1,49 @@
+{
+ "url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/24-0862246_Geisinger-Community-Medical-Center_standardcharges",
+ "format": "",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "ValueError: file is a web page (HTML), not a data file",
+ "bytes": 15204,
+ "codes": {
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

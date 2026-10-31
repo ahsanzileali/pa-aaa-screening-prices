@@ -1,0 +1,69 @@
+{
+ "url": "https://whs.org/wp-content/uploads/2026/03/437884840_upmc-greene_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Greene",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 69322161,
+ "seconds": 5,
+ "codes": {
+  "76775": {
+   "rows": 60,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ABDOMINAL AORTA",
+    "KIDNEY",
+    "US RETRO LIMITED-E"
+   ],
+   "gross": 798.2,
+   "gross_n_distinct": 3,
+   "cash": 558.74,
+   "min": 87.54,
+   "max": 439.01,
+   "median_neg": 106.705,
+   "n_neg": 54,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 20,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US AAA SCREENING"
+   ],
+   "gross": 590.0,
+   "gross_n_distinct": 1,
+   "cash": 413.0,
+   "min": 83.26,
+   "max": 324.5,
+   "median_neg": 106.705,
+   "n_neg": 18,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 100,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ABDOMINAL NODES/RET",
+    "ADRENALS-ULTRASOUND",
+    "KIDNEY & BLADDER ULTRASOUND"
+   ],
+   "gross": 530.0,
+   "gross_n_distinct": 1,
+   "cash": 371.0,
+   "min": 93.72,
+   "max": 291.5,
+   "median_neg": 106.705,
+   "n_neg": 90,
+   "modifier_used": ""
+  }
+ }
+}

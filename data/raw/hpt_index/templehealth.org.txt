@@ -1,0 +1,47 @@
+location-name: Temple University Hospital - Main Campus
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital-inc-main-campus_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple University Hospital - Jeanes Campus
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--jeanes-campus_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple University Hospital - Northeastern Campus
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--northeastern-campus_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple University Hospital - Episcopal Campus
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--episcopal-campus_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple University Hospital - Fox Chase
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--fox-chase-campus_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Fox Chase Cancer Center
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/231352156_fox-chase-cancer-center_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple Health - Chestnut Hill Hospital
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/883577015_temple-health--chestnut-hill-hospital_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu
+
+location-name: Temple Women & Families Hospital
+source-page-url: https://www.templehealth.org/pricing-disclaimer
+mrf-url: https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-women--families-hospital_standardcharges.csv
+contact-name: Byron Glasgow
+contact-email: Byron.glasgow@tuhs.temple.edu

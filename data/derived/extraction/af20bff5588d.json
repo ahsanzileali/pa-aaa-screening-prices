@@ -1,0 +1,68 @@
+{
+ "url": "https://pub-dd9ed2ce8da741aba680475ac31af6a3.r2.dev/250965598-1659360220_warren-general-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Warren General Hospital",
+ "last_updated": "    2026-09-24",
+ "error": "",
+ "bytes": 28611902,
+ "seconds": 2,
+ "codes": {
+  "76706": {
+   "rows": 6,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "PF US AORTA, SCREENING (G0389)",
+    "US AORTA AAA MCR SCREENING"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 2,
+   "cash": 556.0,
+   "min": 27.3,
+   "max": 417.0,
+   "median_neg": 112.53999999999999,
+   "n_neg": 42,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US R.PERITONL"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 1,
+   "cash": 556.0,
+   "min": 86.56,
+   "max": 417.0,
+   "median_neg": 194.6,
+   "n_neg": 21,
+   "modifier_used": "TC"
+  },
+  "76775": {
+   "rows": 9,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ULTRA-KIDNEY-MCR",
+    "US RETROPERITONEUM LIMITED",
+    "Us Rpr B-Scan&/R-T Img Lmtd"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 3,
+   "cash": 556.0,
+   "min": 86.56,
+   "max": 417.0,
+   "median_neg": 162.37,
+   "n_neg": 63,
+   "modifier_used": ""
+  }
+ }
+}

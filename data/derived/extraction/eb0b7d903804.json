@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232875070_upmc-st-margaret_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC St Margaret",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 129168494,
+ "seconds": 43,
+ "codes": {
+  "76775": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 872.0,
+   "gross_n_distinct": 1,
+   "cash": 523.2,
+   "min": 83.73,
+   "max": 741.2,
+   "median_neg": 238.93,
+   "n_neg": 29,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1435.0,
+   "gross_n_distinct": 1,
+   "cash": 861.0,
+   "min": 87.53,
+   "max": 1219.75,
+   "median_neg": 361.62,
+   "n_neg": 29,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 351.9,
+   "median_neg": 115.92,
+   "n_neg": 29,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,29 @@
+location-name: Bryn Mawr Hospital
+source-page-url: https://www.mainlinehealth.org/patient-services/patient-billing/price-transparency
+mrf-url: https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/231352160_the-bryn-mawr-hospital_standardcharges.xlsx
+contact-name: Main Line Health, Revenue Integrity System Director
+contact-email: MLHRevenueIntegrity@mlhs.org
+
+location-name: Paoli Hospital
+source-page-url: https://www.mainlinehealth.org/patient-services/patient-billing/price-transparency
+mrf-url: https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_paoli-hospital_standardcharges.csv
+contact-name: Main Line Health, Revenue Integrity System Director
+contact-email: MLHRevenueIntegrity@mlhs.org
+
+location-name: Lankenau Medical Center
+source-page-url: https://www.mainlinehealth.org/patient-services/patient-billing/price-transparency
+mrf-url: https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_lankenau-medical-center_standardcharges.csv
+contact-name: Main Line Health, Revenue Integrity System Director
+contact-email: MLHRevenueIntegrity@mlhs.org
+
+location-name: Riddle Memorial Hospital
+source-page-url: https://www.mainlinehealth.org/patient-services/patient-billing/price-transparency
+mrf-url: https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1529076_riddle-memorial-hospital_standardcharges.csv
+contact-name: Main Line Health, Revenue Integrity System Director
+contact-email: MLHRevenueIntegrity@mlhs.org
+
+location-name: Bryn Mawr Rehab Hospital
+source-page-url: https://www.mainlinehealth.org/patient-services/patient-billing/price-transparency
+mrf-url: https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_bryn-mawr-rehabilitation-hospital_standardcharges.csv
+contact-name: Main Line Health, Revenue Integrity System Director
+contact-email: MLHRevenueIntegrity@mlhs.org

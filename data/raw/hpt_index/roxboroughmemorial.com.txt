@@ -1,0 +1,11 @@
+location-name: Roxborough Memorial Hospital
+source-page-url: https://roxboroughmemorial.com/patients-visitors/financial-assistance/
+mrf-url: https://roxboroughmemorial.com/wp-content/uploads/2026/09/910401_RoxboroughMemorialHospital_standardcharges.json
+contact-name: Ken Wheeler
+contact-email: KWheeler@primehealthcare.com
+
+location-name: Suburban Behavioral Health Campus of Roxborough Memorial Hospital
+source-page-url: https://suburbanbhc.org/financial-assistance/
+mrf-url: https://suburbanbhc.org/wp-content/uploads/2026/09/910401_RoxboroughMemorialHospital_standardcharges.json
+contact-name: Ken Wheeler
+contact-email: KWheeler@primehealthcare.com

@@ -1,0 +1,65 @@
+{
+ "url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/46-5143606_stlukeshospitalmonroecampus_standardcharges.ashx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "St Luke's Hospital - Monroe Campus",
+ "last_updated": "2026-02-27",
+ "error": "",
+ "bytes": 259393549,
+ "seconds": 13,
+ "codes": {
+  "76706": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 902.0,
+   "gross_n_distinct": 1,
+   "cash": 748.66,
+   "min": 85.43,
+   "max": 468.9,
+   "median_neg": 113.765,
+   "n_neg": 24,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 2366.0,
+   "gross_n_distinct": 1,
+   "cash": 1963.78,
+   "min": 96.17,
+   "max": 825.73,
+   "median_neg": 115.83500000000001,
+   "n_neg": 24,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 27,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 1712.0,
+   "gross_n_distinct": 1,
+   "cash": 1420.96,
+   "min": 89.82,
+   "max": 597.49,
+   "median_neg": 113.765,
+   "n_neg": 24,
+   "modifier_used": ""
+  }
+ }
+}

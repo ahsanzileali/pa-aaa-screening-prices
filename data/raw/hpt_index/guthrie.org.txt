@@ -1,0 +1,35 @@
+location-name: Guthrie Corning Hospital
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/Ej9oiPkBvg9Pnew5TsFwV44B8DeAQiEn9uFlhQRBHY6vZg?e=2QZOZd
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org
+
+location-name: Guthrie Cortland Medical Center
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/Es2AHvgCdI9LkhIO6t9TpDoBh-ijMWz-_qo4mrlw0lGGSw?e=7adj4B
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org
+
+location-name: Guthrie Lourdes Hospital
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/Em4FiPpUzNhHggXDiGnGdvgBKVZsH8gPfGUKriITnAV5_Q?e=aOjTVH
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org
+
+location-name: Guthrie Robert Packer Hospital
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/EnktJlV3jHpHiYl_vAygKRsB8JX4TlqGXyf11e1io1qjcA?e=NVLzdj
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org
+
+location-name: Guthrie Robert Packer Hospital, Towanda Campus
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/EhaOzKbCCCNErqGXsI78heMB5vAIyQ8fFw86ZboWJczWkQ?e=B7TQbL
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org
+
+location-name: Guthrie Troy Community Hospital
+source-page-url: https://www.guthrie.org/about-us/hospital-price-transparency
+mrf-url: https://guthrieclinic.sharepoint.com/:f:/s/External/spam/Em_QXlsm0_hNu0O46C75j3UB-Ly-63BCAoRncsX0sIKMZA?e=516yWM
+contact-name: Kenneth Ippolito
+contact-email: KennethT.Ippolito@guthrie.org

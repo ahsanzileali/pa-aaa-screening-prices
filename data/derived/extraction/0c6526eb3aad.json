@@ -1,0 +1,65 @@
+{
+ "url": "https://www.wmh.org/wp-content/uploads/2026/09/PricingTransparency-Wayne-Memorial_F-3559-20260916115044.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Wayne Memorial Hospital Inc",
+ "last_updated": "2026-09-16",
+ "error": "",
+ "bytes": 20257826,
+ "seconds": 2,
+ "codes": {
+  "76770": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "RENAL BLADDER ULTRASOUND"
+   ],
+   "gross": 455.0,
+   "gross_n_distinct": 1,
+   "cash": 318.5,
+   "min": 111.16,
+   "max": 364.0,
+   "median_neg": 205.65,
+   "n_neg": 17,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABD AORTIC ANEURYSM SCREENG"
+   ],
+   "gross": 1652.0,
+   "gross_n_distinct": 1,
+   "cash": 1156.4,
+   "min": 111.16,
+   "max": 1321.6,
+   "median_neg": 660.8,
+   "n_neg": 17,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "RETROPERIT AORTA/RENAL LTD"
+   ],
+   "gross": 1735.0,
+   "gross_n_distinct": 1,
+   "cash": 1214.5,
+   "min": 111.16,
+   "max": 1388.0,
+   "median_neg": 694.0,
+   "n_neg": 17,
+   "modifier_used": ""
+  }
+ }
+}

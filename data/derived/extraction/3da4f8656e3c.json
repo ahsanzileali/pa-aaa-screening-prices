@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965451_upmc-passavant_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Passavant - McCandless",
+ "last_updated": "3/7/2026",
+ "error": "",
+ "bytes": 156077720,
+ "seconds": 56,
+ "codes": {
+  "76706": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 351.9,
+   "median_neg": 113.02,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 880.0,
+   "gross_n_distinct": 1,
+   "cash": 528.0,
+   "min": 83.73,
+   "max": 748.0,
+   "median_neg": 129.72,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 42,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 2449.0,
+   "gross_n_distinct": 1,
+   "cash": 1469.4,
+   "min": 89.65,
+   "max": 2081.65,
+   "median_neg": 131.67,
+   "n_neg": 33,
+   "modifier_used": ""
+  }
+ }
+}

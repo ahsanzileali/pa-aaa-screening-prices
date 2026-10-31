@@ -1,0 +1,71 @@
+{
+ "url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/231352152%20_jefferson-abington-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Abington Memorial Hospital ",
+ "last_updated": "2026-09-15",
+ "error": "",
+ "bytes": 641845073,
+ "seconds": 29,
+ "codes": {
+  "76775": {
+   "rows": 63,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "11-OFFICE-US EXAM ABDO BACK WALL LIM",
+    "CHG US RETROPERITONEAL REAL TIME W/IMAGE LIMITED",
+    "HC RETROP US (RENL/AORT NODES)LTD"
+   ],
+   "gross": 1453.0,
+   "gross_n_distinct": 2,
+   "cash": 117.98,
+   "min": 22.8988,
+   "max": 378.5323,
+   "median_neg": 96.082,
+   "n_neg": 61,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 49,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "11-OFFICE-Us abdl aorta screen aaa",
+    "CHG US ABDOMINAL AORTA REAL TIME SCREEN STUDY AAA",
+    "HC US ABD AORTA REAL TIME STUDY AAA"
+   ],
+   "gross": 630.0,
+   "gross_n_distinct": 2,
+   "cash": 126.57,
+   "min": 23.8158,
+   "max": 378.5323,
+   "median_neg": 112.2707,
+   "n_neg": 47,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 63,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "11-OFFICE-US EXAM ABDO BACK WALL COMP",
+    "CHG US RETROPERITONEAL REAL TIME W/IMAGE COMPLETE",
+    "HC RETROPERITONEAL ULTRSND B-SCAN"
+   ],
+   "gross": 2616.0,
+   "gross_n_distinct": 2,
+   "cash": 126.81,
+   "min": 28.1891,
+   "max": 378.5323,
+   "median_neg": 112.16,
+   "n_neg": 61,
+   "modifier_used": ""
+  }
+ }
+}

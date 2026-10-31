@@ -1,0 +1,23 @@
+location-name: Nazareth Hospital
+source-page-url: https://www.trinityhealthma.org/patients-visitors/billing-insurance/pricing-transparency
+mrf-url: https://hpt.trinity-health.org/232794121_nazareth-hospital_standardcharges.zip
+contact-name: Michael Magro D.O. President 
+contact-email: mmagro@mercyhealth.org
+
+location-name: Saint Francis Hospital
+source-page-url: https://www.trinityhealthma.org/patients-visitors/billing-insurance/pricing-transparency
+mrf-url: https://hpt.trinity-health.org/510064326_st-francis-hospital-inc_standardcharges.zip
+contact-name: Marlow Levy RN President
+contact-email: marlow.levy@trinity-health.org
+
+location-name: Mercy Fitzgerald Hospital
+source-page-url: https://www.trinityhealthma.org/patients-visitors/billing-insurance/pricing-transparency
+mrf-url: https://hpt.trinity-health.org/231352191_mercy-fitzgerald-hospital_standardcharges.zip
+contact-name: Marlow Levy RN President
+contact-email: marlow.levy@trinity-health.org
+
+location-name: St. Mary Medical Center
+source-page-url: https://www.trinityhealthma.org/patients-visitors/billing-insurance/pricing-transparency
+mrf-url: https://hpt.trinity-health.org/231913910_st-mary-medical-center_standardcharges.zip
+contact-name: Michael Magro D.O. President 
+contact-email: mmagro@mercyhealth.org

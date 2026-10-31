@@ -1,0 +1,59 @@
+location-name: ALLEGHENY GENERAL HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1285667493_west-penn-allegheny-health-system-inc_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: ALLEGHENY VALLEY HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: CANONSBURG HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: FORBES HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1679592380_west-penn-allegheny-health-system-inc_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: GROVE CITY HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251340370_grove-city-medical-center_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: JEFFERSON HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: SAINT VINCENT HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250965547_saint-vincent-health-center_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: WEST PENN HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1194744805_west-penn-allegheny-health-system-inc_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: WESTFIELD MEMORIAL HOSPITAL INC
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/160743222_westfield-memorial-hospital-inc_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org
+
+location-name: AHN WEXFORD HOSPITAL
+source-page-url: https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges
+mrf-url: https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv
+contact-name: AHN Price Transparency Department
+contact-email: ahnpricetransparency@ahn.org

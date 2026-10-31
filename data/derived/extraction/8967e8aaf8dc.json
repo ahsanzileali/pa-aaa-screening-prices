@@ -1,0 +1,71 @@
+{
+ "url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/263359979_jefferson-lansdale-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Lansdale Hospital Corp",
+ "last_updated": "2026-09-15",
+ "error": "",
+ "bytes": 261149250,
+ "seconds": 15,
+ "codes": {
+  "76770": {
+   "rows": 20,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "HC RETROPERITONEAL ULTRSND B-SCAN",
+    "RADIOLOGY - ULTRASOUND-US EXAM ABDO BACK WALL COMP",
+    "Radiology-ECHOGRAPHY  RETROPERITONEAL  B-SCAN REAL TIME W IMAGE DOCUMENTATION  C"
+   ],
+   "gross": 2616.0,
+   "gross_n_distinct": 1,
+   "cash": 120.55,
+   "min": 49.0,
+   "max": 1341.1353,
+   "median_neg": 170.612,
+   "n_neg": 19,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 18,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORTA REAL TIME STUDY AAA",
+    "RADIOLOGY - ULTRASOUND-US ABDOMINAL AORTA REAL TIME SCREEN STUDY AAA",
+    "Radiology-ULTRASOUND  ABDOMINAL AORTA  REAL TIME WITH IMAGE DOCUMENTATION  SCREE"
+   ],
+   "gross": 220.0,
+   "gross_n_distinct": 1,
+   "cash": 120.55,
+   "min": 50.11,
+   "max": 1147.8185,
+   "median_neg": 199.8325,
+   "n_neg": 17,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 20,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "HC RETROP US (RENL/AORT NODES)LTD",
+    "RADIOLOGY - ULTRASOUND-US EXAM ABDO BACK WALL LIM",
+    "Radiology-ECHOGRAPHY  RETROPERITONEAL  B-SCAN REAL TIME W IMAGE DOCUMENTATION  L"
+   ],
+   "gross": 1453.0,
+   "gross_n_distinct": 1,
+   "cash": 120.55,
+   "min": 49.0,
+   "max": 1002.8309,
+   "median_neg": 109.7041,
+   "n_neg": 19,
+   "modifier_used": ""
+  }
+ }
+}

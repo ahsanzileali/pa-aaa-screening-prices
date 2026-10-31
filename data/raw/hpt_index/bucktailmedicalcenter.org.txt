@@ -1,0 +1,5 @@
+location-name: Bucktail Medical Center
+source-page-url: bucktailmedicalcenter.kinsta.cloud
+mrf-url: https://bucktailmedicalcenter.kinsta.cloud/price-transparency/
+contact-name: Wendy Janerella
+contact-email: wjanerella@bucktailmedicalcenter.org

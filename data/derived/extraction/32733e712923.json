@@ -1,0 +1,65 @@
+{
+ "url": "https://towerhealth.org/sites/default/files/pricing/82-2132538_Pottstown-Hospital_StandardCharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Pottstown Hospital",
+ "last_updated": "6/1/2026",
+ "error": "",
+ "bytes": 38321887,
+ "seconds": 2,
+ "codes": {
+  "76770": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US RETRO/RENAL/AORTA"
+   ],
+   "gross": 1940.0,
+   "gross_n_distinct": 1,
+   "cash": 485.0,
+   "min": 58.8,
+   "max": 1901.2,
+   "median_neg": 332.855,
+   "n_neg": 16,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US ABDOMINAL AORTA SCREEN AAA"
+   ],
+   "gross": 379.0,
+   "gross_n_distinct": 1,
+   "cash": 94.75,
+   "min": 60.13,
+   "max": 387.58,
+   "median_neg": 209.87,
+   "n_neg": 16,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US RETRO/RENAL/AORTA LIMITED"
+   ],
+   "gross": 1255.0,
+   "gross_n_distinct": 1,
+   "cash": 313.75,
+   "min": 58.8,
+   "max": 1229.9,
+   "median_neg": 262.8,
+   "n_neg": 16,
+   "modifier_used": ""
+  }
+ }
+}

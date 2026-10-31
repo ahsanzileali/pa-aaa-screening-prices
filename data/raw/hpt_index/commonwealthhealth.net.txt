@@ -1,0 +1,17 @@
+location-name: Regional Hospital of Scranton
+source-page-url: https://commonwealthhealth.net/hospital-about-us/quality-safety/price-transparency/
+mrf-url:  https://commonwealthhealth.net/wp-content/uploads/sheets/452672023_moses-taylor-hospital_standardcharges.csv
+contact-name: Patrick Conaboy
+contact-email: patrick.conaboy@tenorhealth.org
+
+location-name: Moses Taylor Hospital
+source-page-url: https://commonwealthhealth.net/hospital-about-us/quality-safety/price-transparency/
+mrf-url: https://commonwealthhealth.net//wp-content/uploads/sheets/274564798_regional-hospital-of-scranton_standardcharges.csv
+contact-name: Patrick Conaboy
+contact-email: patrick.conaboy@tenorhealth.org
+
+location-name: Wilkes-Barre General Hospital
+source-page-url: https://commonwealthhealth.net/hospital-about-us/quality-safety/price-transparency/
+mrf-url: https://commonwealthhealth.net/wp-content/uploads/sheets/263632648_wilkes-barre-general-hospital_standardcharges.csv
+contact-name: Michael Clark
+contact-email: michael.clark@tenorhealth.org

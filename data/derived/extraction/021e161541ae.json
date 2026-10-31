@@ -1,0 +1,68 @@
+{
+ "url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1529076_riddle-memorial-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Riddle Memorial Hospital",
+ "last_updated": "2026-04-01",
+ "error": "",
+ "bytes": 58153501,
+ "seconds": 3,
+ "codes": {
+  "76775": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Retroperitoneal Limited",
+    "Us exam abdo back wall lim"
+   ],
+   "gross": 1473.0,
+   "gross_n_distinct": 1,
+   "cash": 589.2,
+   "min": 74.26,
+   "max": 293.66,
+   "median_neg": 118.685,
+   "n_neg": 18,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Retroperitoneal Complete",
+    "Us exam abdo back wall comp"
+   ],
+   "gross": 2900.0,
+   "gross_n_distinct": 1,
+   "cash": 1160.0,
+   "min": 107.41,
+   "max": 392.73,
+   "median_neg": 127.275,
+   "n_neg": 18,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 19,
+   "settings": [
+    "both",
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Aaa Screening",
+    "Us abdl aorta screen aaa"
+   ],
+   "gross": 533.0,
+   "gross_n_distinct": 1,
+   "cash": 213.2,
+   "min": 107.41,
+   "max": 336.12,
+   "median_neg": 127.275,
+   "n_neg": 18,
+   "modifier_used": ""
+  }
+ }
+}

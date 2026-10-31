@@ -1,0 +1,23 @@
+system,hospitals,median_pct,min_pct,max_pct
+Prime Healthcare,3,7.3,7.3,11.1
+Jefferson Health,4,19.5,12.6,54.8
+St. Clair Health,1,24.8,24.8,24.8
+Tower Health,3,25.0,25.0,70.0
+Commonwealth Health,2,25.5,24.0,27.0
+Heritage Valley Health System,2,27.0,27.0,27.0
+Penn State Health,5,29.0,23.9,33.1
+ACMH,1,30.0,30.0,30.0
+Main Line Health,4,40.0,40.0,40.0
+Conemaugh Health System,1,40.0,40.0,40.0
+WVU Medicine,6,58.0,50.0,60.0
+Meadville Medical Center,1,60.0,60.0,60.0
+Holy Redeemer,1,60.0,60.0,60.0
+UPMC,21,60.0,60.0,70.0
+Independent,2,65.0,45.0,85.0
+Trinity Health Mid-Atlantic,3,65.0,65.0,65.0
+Wayne Memorial Health System,1,70.0,70.0,70.0
+Allegheny Health Network,9,77.0,73.0,82.0
+WellSpan Health,7,80.0,80.0,80.0
+St. Luke's University Health Network,8,83.0,83.0,90.0
+Warren General,1,100.0,100.0,100.0
+Penn Medicine,6,100.0,100.0,100.0

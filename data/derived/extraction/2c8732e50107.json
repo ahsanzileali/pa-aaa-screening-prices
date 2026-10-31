@@ -1,0 +1,65 @@
+{
+ "url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231360854_waynesboro-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Waynesboro Hospital",
+ "last_updated": "1/1/2026",
+ "error": "",
+ "bytes": 15215910,
+ "seconds": 2,
+ "codes": {
+  "76706": {
+   "rows": 45,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound Scan of Abdominal Aorta"
+   ],
+   "gross": 376.0,
+   "gross_n_distinct": 1,
+   "cash": 300.8,
+   "min": 17.5,
+   "max": 602.31,
+   "median_neg": 119.62,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 45,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Limited Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 783.0,
+   "gross_n_distinct": 1,
+   "cash": 626.4,
+   "min": 34.375,
+   "max": 743.85,
+   "median_neg": 119.62,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 45,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "Complete Ultrasound Scan Behind Abdominal Cavity"
+   ],
+   "gross": 1117.0,
+   "gross_n_distinct": 1,
+   "cash": 893.6,
+   "min": 34.375,
+   "max": 1061.15,
+   "median_neg": 119.62,
+   "n_neg": 39,
+   "modifier_used": ""
+  }
+ }
+}

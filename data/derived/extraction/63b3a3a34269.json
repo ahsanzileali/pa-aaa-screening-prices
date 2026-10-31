@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965406_upmc-jameson_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Jameson",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 63030278,
+ "seconds": 3,
+ "codes": {
+  "76706": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.33,
+   "max": 447.05,
+   "median_neg": 109.49,
+   "n_neg": 25,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 488.0,
+   "gross_n_distinct": 1,
+   "cash": 292.8,
+   "min": 56.35,
+   "max": 432.0,
+   "median_neg": 109.49,
+   "n_neg": 25,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 30,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 587.0,
+   "gross_n_distinct": 1,
+   "cash": 352.2,
+   "min": 56.35,
+   "max": 516.56,
+   "median_neg": 109.49,
+   "n_neg": 25,
+   "modifier_used": ""
+  }
+ }
+}

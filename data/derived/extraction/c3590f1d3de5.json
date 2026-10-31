@@ -1,0 +1,65 @@
+{
+ "url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352203_stlukeshospitalupperbuckscampus_standardcharges.ashx",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "St Luke's Hospital - Upper Bucks Campus",
+ "last_updated": "2026-02-26",
+ "error": "",
+ "bytes": 301980962,
+ "seconds": 12,
+ "codes": {
+  "76775": {
+   "rows": 31,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 1607.0,
+   "gross_n_distinct": 1,
+   "cash": 1446.3,
+   "min": 76.12,
+   "max": 1330.92,
+   "median_neg": 113.765,
+   "n_neg": 28,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 31,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 847.0,
+   "gross_n_distinct": 1,
+   "cash": 762.3,
+   "min": 72.4,
+   "max": 701.49,
+   "median_neg": 113.765,
+   "n_neg": 28,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 31,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 2221.0,
+   "gross_n_distinct": 1,
+   "cash": 1998.9,
+   "min": 81.5,
+   "max": 1839.43,
+   "median_neg": 115.83500000000001,
+   "n_neg": 28,
+   "modifier_used": ""
+  }
+ }
+}

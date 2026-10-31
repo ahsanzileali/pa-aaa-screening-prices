@@ -1,0 +1,62 @@
+{
+ "url": "https://lowerbuckshosp.com/wp-content/uploads/2026/09/911120_LowerBucksHospital_standardcharges.json",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 34253369,
+ "seconds": 2,
+ "codes": {
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us,Retroperit, B-Scan/Real Time,Complete"
+   ],
+   "gross": 1134.51,
+   "gross_n_distinct": 1,
+   "cash": 102.0,
+   "min": 49.0,
+   "max": 907.608,
+   "median_neg": 107.465,
+   "n_neg": 28,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Abdominal Aorta Real Time Screen Study Aaa"
+   ],
+   "gross": 915.27,
+   "gross_n_distinct": 1,
+   "cash": 102.0,
+   "min": 50.11,
+   "max": 732.216,
+   "median_neg": 107.465,
+   "n_neg": 28,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us, Retroperitnl Abd, Ltd"
+   ],
+   "gross": 915.27,
+   "gross_n_distinct": 1,
+   "cash": 102.0,
+   "min": 49.0,
+   "max": 732.216,
+   "median_neg": 107.465,
+   "n_neg": 28,
+   "modifier_used": ""
+  }
+ }
+}

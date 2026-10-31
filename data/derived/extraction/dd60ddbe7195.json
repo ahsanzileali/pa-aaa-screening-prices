@@ -1,0 +1,65 @@
+{
+ "url": "https://commonwealthhealth.net//wp-content/uploads/sheets/274564798_regional-hospital-of-scranton_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Regional Hospital of Scranton",
+ "last_updated": "    2024-12-02",
+ "error": "",
+ "bytes": 145466405,
+ "seconds": 7,
+ "codes": {
+  "76706": {
+   "rows": 15,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMN AAA SCREEN"
+   ],
+   "gross": 1467.0,
+   "gross_n_distinct": 3,
+   "cash": 396.09,
+   "min": 50.11,
+   "max": 1380.45,
+   "median_neg": 124.5,
+   "n_neg": 257,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 12,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMEN RETROPER"
+   ],
+   "gross": 2540.0,
+   "gross_n_distinct": 3,
+   "cash": 685.8,
+   "min": 49.0,
+   "max": 2390.14,
+   "median_neg": 124.74,
+   "n_neg": 207,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 12,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US-ABDOMEN RETRO LMT"
+   ],
+   "gross": 1908.0,
+   "gross_n_distinct": 3,
+   "cash": 515.16,
+   "min": 49.0,
+   "max": 1795.43,
+   "median_neg": 122.94,
+   "n_neg": 207,
+   "modifier_used": ""
+  }
+ }
+}

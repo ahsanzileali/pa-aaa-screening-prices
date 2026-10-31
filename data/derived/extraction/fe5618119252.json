@@ -1,0 +1,65 @@
+{
+ "url": "https://hpt.trinity-health.org/231352191_mercy-fitzgerald-hospital_standardcharges.zip",
+ "format": "ZIP CSV-tall",
+ "hospital_name_in_file": "Mercy Fitzgerald Hospital",
+ "last_updated": "2026-03-31",
+ "error": "",
+ "bytes": 122269447,
+ "seconds": 123,
+ "codes": {
+  "76706": {
+   "rows": 101,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "HC US Abdomen Aorta Screening Study Aaa"
+   ],
+   "gross": 609.0,
+   "gross_n_distinct": 1,
+   "cash": 395.85,
+   "min": 82.29,
+   "max": 609.0,
+   "median_neg": 398.4,
+   "n_neg": 101,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 47,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "HC US Retroperitioneal Complete"
+   ],
+   "gross": 756.0,
+   "gross_n_distinct": 1,
+   "cash": 491.4,
+   "min": 80.47,
+   "max": 756.0,
+   "median_neg": 195.48,
+   "n_neg": 47,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1549,
+   "settings": [
+    "both",
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US Retroperitoneal Limited",
+    "PR US Retroperitoneal Limited"
+   ],
+   "gross": 448.0,
+   "gross_n_distinct": 1,
+   "cash": 291.2,
+   "min": 17.47,
+   "max": 448.0,
+   "median_neg": 76.12,
+   "n_neg": 798,
+   "modifier_used": ""
+  }
+ }
+}

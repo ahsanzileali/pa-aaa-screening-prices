@@ -1,0 +1,5 @@
+location-name: Titusville Area Hospital
+source-page-url: https://www.titusvillehospital.org/patient-visitor-resources/price-transparency/
+mrf-url: https://www.titusvillehospital.org/wp-content/uploads/sites/2/2026/09/250965579_Titusville-Area-Hospital_standardcharges_09.11.26.csv
+contact-name: Daniela Covert
+contact-email: dcovert@mmchs.org

@@ -1,0 +1,62 @@
+{
+ "url": "https://www.titusvillehospital.org/wp-content/uploads/sites/2/2026/09/250965579_Titusville-Area-Hospital_standardcharges_09.11.26.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Titusville Area Hospital",
+ "last_updated": "9/11/2026",
+ "error": "",
+ "bytes": 8751640,
+ "seconds": 1,
+ "codes": {
+  "76706": {
+   "rows": 17,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 674.0,
+   "gross_n_distinct": 1,
+   "cash": 404.4,
+   "min": 21.08,
+   "max": 337.0,
+   "median_neg": 229.16,
+   "n_neg": 17,
+   "modifier_used": "TC"
+  },
+  "76770": {
+   "rows": 14,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 586.0,
+   "gross_n_distinct": 1,
+   "cash": 351.6,
+   "min": 21.08,
+   "max": 300.58,
+   "median_neg": 199.24,
+   "n_neg": 14,
+   "modifier_used": "TC"
+  },
+  "76775": {
+   "rows": 14,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 676.0,
+   "gross_n_distinct": 1,
+   "cash": 405.6,
+   "min": 21.08,
+   "max": 299.71,
+   "median_neg": 229.84,
+   "n_neg": 14,
+   "modifier_used": "TC"
+  }
+ }
+}

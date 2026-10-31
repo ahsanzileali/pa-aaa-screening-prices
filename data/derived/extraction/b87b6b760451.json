@@ -1,0 +1,62 @@
+{
+ "url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/lehigh",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 681336852,
+ "seconds": 14544,
+ "codes": {
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 70.15,
+   "max": 5529.68,
+   "median_neg": 133.50375,
+   "n_neg": 54,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 68.6,
+   "max": 5529.68,
+   "median_neg": 137.4260625,
+   "n_neg": 54,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": 68.6,
+   "max": 5529.68,
+   "median_neg": 136.85174999999998,
+   "n_neg": 54,
+   "modifier_used": ""
+  }
+ }
+}

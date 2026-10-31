@@ -1,0 +1,50 @@
+{
+ "url": "https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q262/472546387_nason-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Conemaugh  Nason Medical Center",
+ "last_updated": "7/30/2026",
+ "error": "",
+ "bytes": 16933375,
+ "seconds": 3554,
+ "codes": {
+  "76770": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

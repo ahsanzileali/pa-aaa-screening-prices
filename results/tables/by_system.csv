@@ -1,0 +1,24 @@
+system,hospitals,counties,median_cash,min_cash,max_cash,median_negotiated,min_negotiated,max_negotiated
+Prime Healthcare,3,3,106.0,102.0,106.0,112.21,107.47,112.21
+St. Clair Health,1,1,107.41,107.41,107.41,218.94,218.94,218.94
+Tower Health,3,3,111.25,94.75,311.5,178.0,121.39,209.87
+ACMH,1,1,116.4,116.4,116.4,115.63,115.63,115.63
+Heritage Valley Health System,2,2,117.72,117.72,117.72,101.83,101.83,101.83
+Jefferson Health,12,7,124.1,120.55,126.57,114.88,107.94,202.0
+Penn State Health,5,4,154.23,127.09,176.25,115.32,105.16,121.22
+Conemaugh Health System,1,1,177.6,177.6,177.6,207.41,207.41,207.41
+Main Line Health,4,3,213.2,213.2,213.2,127.82,127.28,128.36
+WVU Medicine,6,4,228.25,177.0,457.52,114.29,106.4,118.72
+Holy Redeemer,1,1,237.15,237.15,237.15,139.0,139.0,139.0
+UPMC,21,15,248.4,248.4,413.0,124.67,85.4,258.2
+Meadville Medical Center,1,1,277.8,277.8,277.8,141.32,141.32,141.32
+Independent,2,2,287.92,274.95,300.9,114.4,99.79,129.01
+Commonwealth Health,2,2,289.36,182.64,396.09,124.62,124.5,124.74
+Trinity Health Mid-Atlantic,3,3,395.85,395.85,395.85,323.26,107.86,398.4
+WellSpan Health,7,6,501.6,300.8,855.4,142.92,102.3,179.72
+Warren General,1,1,556.0,556.0,556.0,112.54,112.54,112.54
+Allegheny Health Network,9,4,582.54,552.86,654.36,119.46,110.49,121.48
+St. Luke's University Health Network,8,5,748.66,744.3,762.3,113.26,107.97,115.94
+Penn Medicine,6,4,928.0,455.0,1411.0,188.32,145.06,236.82
+Wayne Memorial Health System,1,1,1156.4,1156.4,1156.4,660.8,660.8,660.8
+Temple Health,2,1,,,,132.63,112.78,152.48

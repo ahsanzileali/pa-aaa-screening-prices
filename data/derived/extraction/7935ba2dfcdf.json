@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Williamsport",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 148601359,
+ "seconds": 54,
+ "codes": {
+  "76706": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 64.14,
+   "max": 331.2,
+   "median_neg": 131.56,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1221.0,
+   "gross_n_distinct": 1,
+   "cash": 732.6,
+   "min": 62.72,
+   "max": 976.8,
+   "median_neg": 315.4,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1163.0,
+   "gross_n_distinct": 1,
+   "cash": 697.8,
+   "min": 62.72,
+   "max": 930.4,
+   "median_neg": 266.18,
+   "n_neg": 33,
+   "modifier_used": ""
+  }
+ }
+}

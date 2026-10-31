@@ -1,0 +1,64 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/09/250965414_LatrobeAreaHospital_StandardCharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Independence Health System Latrobe Area Hospital",
+ "last_updated": "12/17/2025",
+ "error": "",
+ "bytes": 15599740,
+ "seconds": 3,
+ "codes": {
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ED US AAA",
+    "ED US URINARY TRACT",
+    "US AORTA"
+   ],
+   "gross": 493.0,
+   "gross_n_distinct": 1,
+   "cash": 295.8,
+   "min": 56.11,
+   "max": 394.4,
+   "median_neg": 113.22,
+   "n_neg": 168,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 1,
+   "cash": 333.6,
+   "min": 74.77,
+   "max": 444.8,
+   "median_neg": 113.22,
+   "n_neg": 42,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US AAA SCREENING"
+   ],
+   "gross": 295.0,
+   "gross_n_distinct": 1,
+   "cash": 177.0,
+   "min": 86.88,
+   "max": 351.25,
+   "median_neg": 114.29,
+   "n_neg": 41,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,6 @@
+location-name: ST. CLAIR HOSPITAL
+source-page-url: https://www.stclair.org/billing-insurance/cms-price-transparency/
+mrf-url: https://www.stclair.org/wp-content/uploads/2026/03/251010303_st.-clair-hospital_standardcharges.csv
+contact-name: Kristin Berkeybile
+contact-email: kristin.berkeybile@stclair.org
+

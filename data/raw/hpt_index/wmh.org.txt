@@ -1,0 +1,5 @@
+location-name: Wayne Memorial Hospital
+source-page-url: https://www.wmh.org/wayne-memorial-hospital/cost-charges/
+mrf-url: https://www.wmh.org/wp-content/uploads/2026/09/PricingTransparency-Wayne-Memorial_F-3559-20260916115044.csv
+contact-name: Chad McConnell
+contact-email: syssupport@wmh.org

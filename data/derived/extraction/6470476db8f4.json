@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820844453_upmc-lititz_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Lititz",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 129527977,
+ "seconds": 40,
+ "codes": {
+  "76706": {
+   "rows": 52,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US FOR AAA SCREENING"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 65.64,
+   "max": 589.04,
+   "median_neg": 258.2,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 52,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 258.2,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 52,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL COMP"
+   ],
+   "gross": 657.0,
+   "gross_n_distinct": 1,
+   "cash": 394.2,
+   "min": 64.19,
+   "max": 589.04,
+   "median_neg": 276.09,
+   "n_neg": 39,
+   "modifier_used": ""
+  }
+ }
+}

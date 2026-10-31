@@ -1,0 +1,66 @@
+{
+ "url": "https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/231352211_st.-joseph-regional-health-network-dba-st.-joseph-medical-center_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "St Joseph Regional Health Network",
+ "last_updated": "3/27/2026",
+ "error": "",
+ "bytes": 107679528,
+ "seconds": 6,
+ "codes": {
+  "76706": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76706 Us Abdominal Aorta Real Time Screen Study",
+    "G0389 U/S Aaa Screen Medicare",
+    "US Screening Aorta for Aneurysm"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 138.37,
+   "min": 90.38,
+   "max": 577.91,
+   "median_neg": 121.215,
+   "n_neg": 160,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "76775 ECHOgraphy Retroperitoneal Limited",
+    "US 76775 Renal Limited POC",
+    "US ED 76775 Renal Limited POC"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 138.37,
+   "min": 90.38,
+   "max": 577.91,
+   "median_neg": 121.215,
+   "n_neg": 160,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US Retroperitoneal Complete"
+   ],
+   "gross": 532.0,
+   "gross_n_distinct": 1,
+   "cash": 138.37,
+   "min": 90.38,
+   "max": 577.91,
+   "median_neg": 121.215,
+   "n_neg": 40,
+   "modifier_used": ""
+  }
+ }
+}

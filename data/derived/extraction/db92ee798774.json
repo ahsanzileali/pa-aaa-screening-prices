@@ -1,0 +1,54 @@
+{
+ "url": "https://www.endlesscare.org/s/232720289_endless-mountains-health-systems-inc_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Endless Mountains Health Systems, Inc.",
+ "last_updated": "9/9/2026",
+ "error": "",
+ "bytes": 2165114,
+ "seconds": 1,
+ "codes": {
+  "76770": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "RETROPERITONEAL LTD US"
+   ],
+   "gross": 614.0,
+   "gross_n_distinct": 1,
+   "cash": 429.8,
+   "min": 374.54,
+   "max": 491.2,
+   "median_neg": 396.03,
+   "n_neg": 4,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

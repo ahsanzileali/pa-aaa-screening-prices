@@ -1,0 +1,65 @@
+{
+ "url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/232810852_presbyterian-medical-center-of-the-university-of-pennsylvania-health-system-d_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Presbyterian Medical Center of the University of Pennsylvania Health System D/B/A Penn Presbyterian Medical Center",
+ "last_updated": "    2026-10-21",
+ "error": "",
+ "bytes": 926637307,
+ "seconds": 3296,
+ "codes": {
+  "76775": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL (RENAL) LTD"
+   ],
+   "gross": 3019.0,
+   "gross_n_distinct": 1,
+   "cash": 3019.0,
+   "min": 49.0,
+   "max": 3019.0,
+   "median_neg": 194.53,
+   "n_neg": 87,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC ULTRASD RETROPERITONEUM COMP"
+   ],
+   "gross": 3136.0,
+   "gross_n_distinct": 1,
+   "cash": 3136.0,
+   "min": 49.0,
+   "max": 3136.0,
+   "median_neg": 196.83,
+   "n_neg": 87,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORTA SCREEN AAA"
+   ],
+   "gross": 455.0,
+   "gross_n_distinct": 1,
+   "cash": 455.0,
+   "min": 50.11,
+   "max": 455.0,
+   "median_neg": 172.9,
+   "n_neg": 87,
+   "modifier_used": ""
+  }
+ }
+}

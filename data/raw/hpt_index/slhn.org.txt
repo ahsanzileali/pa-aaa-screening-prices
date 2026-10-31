@@ -1,0 +1,77 @@
+location-name: St Luke's Hospital Allentown Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/0sluhn/billing/pdf/standard-charges/23-1352213_stlukeshospitalallentowncampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Anderson Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/45-4394739_stlukeshospitalandersoncampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Bethlehem Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352213_stlukeshospitalbethlehemcampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Carbon Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/86-1248931_stlukeshospitalcarboncampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Easton Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/84-4475996_stlukeshospitaleastoncampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Geisinger Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/82-4432109_geisingerstlukeshospitalorwigsburgcamups_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Lehighton Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352213_stlukeshospitallehightoncampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Miners Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/25-1550350_stlukeshospitalminerscampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Monroe Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/46-5143606_stlukeshospitalmonroecampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Sacred Heart Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352213_stlukeshospitalsacredheartcampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Orthopedic Hospital West End Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352213_stlukesorthopedichospitalwestendcampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Upper Bucks Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/23-1352203_stlukeshospitalupperbuckscampus_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org
+
+location-name: St Lukes Hospital Warren Campus
+source-page-url: https://www.slhn.org/billpay/patient-billing/price-transparency
+mrf-url: https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/22-1494454_stlukeswarrenhospital_standardcharges.ashx
+contact-name: Paul Hohenleitner
+contact-email: paul.hohenleitner@sluhn.org

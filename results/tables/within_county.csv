@@ -1,0 +1,16 @@
+county,systems,lowest_system,lowest_cash,highest_system,highest_cash,fold,all_systems
+Bucks,4,Prime Healthcare,102,Penn Medicine,1016,10.0,"Prime Healthcare $102 | Trinity Health Mid-Atlantic $396 | St. Luke's University Health Network $755 | Penn Medicine $1,016"
+Chester,3,Tower Health,111,Penn Medicine,1070,9.6,"Tower Health $111 | Main Line Health $213 | Penn Medicine $1,070"
+Lancaster,4,Penn State Health,154,Penn Medicine,840,5.4,Penn State Health $154 | UPMC $394 | WellSpan Health $695 | Penn Medicine $840
+Allegheny,4,St. Clair Health,107,Allegheny Health Network,572,5.3,St. Clair Health $107 | Heritage Valley Health System $118 | UPMC $248 | Allegheny Health Network $572
+Philadelphia,4,Prime Healthcare,106,Penn Medicine,478,4.5,Prime Healthcare $106 | Jefferson Health $124 | Trinity Health Mid-Atlantic $396 | Penn Medicine $478
+Cumberland,2,Penn State Health,147,UPMC,394,2.7,Penn State Health $147 | UPMC $394
+Erie,2,UPMC,248,Allegheny Health Network,654,2.6,UPMC $248 | Allegheny Health Network $654
+Montgomery,5,Tower Health,95,Holy Redeemer,237,2.5,Tower Health $95 | Prime Healthcare $106 | Jefferson Health $125 | Main Line Health $213 | Holy Redeemer $237
+Berks,2,Penn State Health,138,Tower Health,312,2.3,Penn State Health $138 | Tower Health $312
+Mercer,2,UPMC,248,Allegheny Health Network,584,2.3,UPMC $248 | Allegheny Health Network $584
+Dauphin,2,Penn State Health,176,UPMC,394,2.2,Penn State Health $176 | UPMC $394
+Delaware,2,Main Line Health,213,Trinity Health Mid-Atlantic,396,1.9,Main Line Health $213 | Trinity Health Mid-Atlantic $396
+Washington,2,UPMC,413,Allegheny Health Network,560,1.4,UPMC $413 | Allegheny Health Network $560
+Somerset,2,Independent,301,UPMC,394,1.3,Independent $301 | UPMC $394
+York,2,UPMC,394,WellSpan Health,502,1.3,UPMC $394 | WellSpan Health $502

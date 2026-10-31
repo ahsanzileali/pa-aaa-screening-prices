@@ -1,0 +1,64 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/09/250965375_FrickHospital_StandardCharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Independence Health System Frick Hospital",
+ "last_updated": "12/17/2025",
+ "error": "",
+ "bytes": 9764315,
+ "seconds": 1,
+ "codes": {
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US AAA SCREENING"
+   ],
+   "gross": 295.0,
+   "gross_n_distinct": 1,
+   "cash": 177.0,
+   "min": 5.28,
+   "max": 71.1,
+   "median_neg": 114.29,
+   "n_neg": 82,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 1,
+   "cash": 333.6,
+   "min": 16.88,
+   "max": 77.6,
+   "median_neg": 113.22,
+   "n_neg": 42,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ED US AAA",
+    "ED US URINARY TRACT",
+    "US AORTA"
+   ],
+   "gross": 493.0,
+   "gross_n_distinct": 1,
+   "cash": 295.8,
+   "min": 12.0,
+   "max": 372.0,
+   "median_neg": 113.22,
+   "n_neg": 168,
+   "modifier_used": ""
+  }
+ }
+}

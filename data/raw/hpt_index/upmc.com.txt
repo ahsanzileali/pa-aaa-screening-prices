@@ -1,0 +1,265 @@
+
+*********************************
+*                               *
+*  Instructions for viewing the * 
+*  price transparency files:    *
+*                               *
+*********************************
+
+For access to the price transparency files, copy this source-page-url and paste it into your internet browser:    
+https://www.upmc.com/patients-visitors/paying-bill/pricing-transparency
+
+You will land on the UPMC CMS Pricing Transparency Machine Readable Files page. 
+See the Machine Readable Files.  
+Click the link associated with location of your choice to download a copy of the file.
+The downloaded file will appear in the upper right corner.  
+Open that file.  
+
+
+**********************************************
+*                                            *
+*  Centers for Medicare & Medicaid Services  *
+*  requires the following information to be  *
+*  available to the public:                  *
+*                                            *
+**********************************************
+
+location-name:	UPMC Altoona
+source-page-url:https://www.upmc.com/locations/hospitals/altoona/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231352155_upmc-altoona_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Bedford
+source-page-url:https://www.upmc.com/locations/hospitals/bedford/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231396795_upmc-bedford_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Carlisle
+source-page-url:https://www.upmc.com/locations/hospitals/carlisle/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820880337_upmc-carlisle_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Chautauqua
+source-page-url:https://www.upmc.com/locations/hospitals/chautauqua/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/160743226_upmc-chautauqua_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Childrens
+source-page-url:https://www.chp.edu/for-parents/before-your-childs-visit/standard-charges
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250402510_upmc-childrens_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Cole
+source-page-url:https://www.upmc.com/locations/hospitals/cole/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240802108_upmc-cole_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Community Osteopathic
+source-page-url:https://www.upmc.com/locations/hospitals/community-osteopathic/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC East
+source-page-url:https://www.upmc.com/locations/hospitals/east/patients-and-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/274814831_upmc-east_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Hamot
+source-page-url:https://www.upmc.com/locations/hospitals/hamot/patients-visitors/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965387_upmc-hamot_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Hanover
+source-page-url:https://www.upmc.com/locations/hospitals/hanover/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/231360851_upmc-hanover_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Harrisburg
+source-page-url:https://www.upmc.com/locations/hospitals/harrisburg/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Horizon-Greenville
+source-page-url:https://www.upmc.com/locations/hospitals/horizon/patients-visitors/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250523970_upmc-horizon_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Horizon-Shenango
+source-page-url:https://www.upmc.com/locations/hospitals/horizon/patients-visitors/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250523970_upmc-horizon_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Jameson
+source-page-url:https://www.upmc.com/locations/hospitals/jameson/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965406_upmc-jameson_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Kane
+source-page-url:https://www.upmc.com/locations/hospitals/kane/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250998168_upmc-kane_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Lititz
+source-page-url:https://www.upmc.com/locations/hospitals/lititz/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820844453_upmc-lititz_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Magee
+source-page-url:https://www.upmc.com/locations/hospitals/magee/patients-and-visitors/information-for-patients/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965420_upmc-magee_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC McKeesport
+source-page-url:https://www.upmc.com/locations/hospitals/mckeesport/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965423_upmc-mckeesport_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Memorial
+source-page-url:https://www.upmc.com/locations/hospitals/memorial/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820912090_upmc-memorial_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Mercy
+source-page-url:https://www.upmc.com/locations/hospitals/mercy/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965429_upmc-mercy_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Muncy
+source-page-url:https://www.upmc.com/locations/hospitals/muncy/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240806023_upmc-muncy_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Northwest
+source-page-url:https://www.upmc.com/locations/hospitals/northwest/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250489010_upmc-northwest_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Passavant-McCandless
+source-page-url:https://www.upmc.com/locations/hospitals/passavant/patients-visitors/passavant-patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965451_upmc-passavant_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Passavant-Cranberry
+source-page-url:https://www.upmc.com/locations/hospitals/passavant/patients-visitors/passavant-patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965451_upmc-passavant_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Presbyterian
+source-page-url:https://www.upmc.com/locations/hospitals/presbyterian/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-presbyterian-shadyside_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Shadyside
+source-page-url:https://www.upmc.com/locations/hospitals/shadyside/patient-visitor-resources/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-presbyterian-shadyside_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Montefiore
+source-page-url:https://www.upmc.com/locations/hospitals/presbyterian/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-presbyterian-shadyside_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Somerset
+source-page-url:https://www.upmc.com/locations/hospitals/somerset/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250965570_upmc-somerset_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC St. Margaret
+source-page-url:https://www.upmc.com/locations/hospitals/st-margaret/patients-visitors/patient-information/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232875070_upmc-st-margaret_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Wellsboro
+source-page-url:https://www.upmc.com/locations/hospitals/wellsboro/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232176963_upmc-wellsboro_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC West Shore
+source-page-url:https://www.upmc.com/locations/hospitals/west-shore/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Western Maryland
+source-page-url:https://www.upmc.com/locations/hospitals/western-maryland/patients-visitors/patients/price-transparency/machine-readable-file
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/western-maryland/patients-visitors/520591531_upmcwesternmaryland_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Western Psychiatric
+source-page-url:https://www.upmc.com/locations/hospitals/western-psychiatric/about/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-western-psychiatric_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+	
+location-name:	UPMC Williamsport
+source-page-url:https://www.upmc.com/locations/hospitals/williamsport/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Williamsport-Divine Providence
+source-page-url:https://www.upmc.com/locations/hospitals/williamsport/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Williamsport-Lock Haven Emergency Department
+source-page-url:https://www.upmc.com/locations/hospitals/williamsport/patients-visitors/patient-info/cdm
+mrf-url:	https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Washington
+source-page-url:https://whs.org/patient-guests/#_tab-985f3f5e473efded214
+mrf-url:	https://whs.org/wp-content/uploads/2026/03/250965600_upmc-washington_standardcharges.csv
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:	UPMC Green
+source-page-url:https://whs.org/patient-guests/#_tab-985f3f5e473efded214
+mrf-url:	https://whs.org/wp-content/uploads/2026/03/437884840_upmc-greene_standardcharges.csv
+contact-name:	Shawn Gronlund
+contact-email:	gronlundsp@upmc.edu
+
+location-name:  UPMC Trinity
+source-page-url:https://trinityhealth.com/pricing-transparency/
+mrf-url:        https://trinityhealth.com/341842025-1285715144_trinity-hospital-holding-company_standardcharges.json
+contact-name:   Shawn Gronlund
+contact-email:  gronlundsp@upmc.edu
+
+location-name:  UPMC Trinity-Twin City
+source-page-url:https://www.trinitytwincity.org/hospital-information/hospital-price-transparency-standard-charges
+mrf-url:        https://www.trinitytwincity.org/upload/275401105-1629050240_twin-city-hospital-corporation_standardcharges.json
+contact-name:   Shawn Gronlund
+contact-email:  gronlundsp@upmc.edu

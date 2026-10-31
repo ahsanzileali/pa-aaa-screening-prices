@@ -1,0 +1,65 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/08/250965588_Uniontown-Hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Uniontown Hospital",
+ "last_updated": "7/9/2026",
+ "error": "",
+ "bytes": 86655419,
+ "seconds": 5,
+ "codes": {
+  "76775": {
+   "rows": 2,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "LIMITED ULTRASOUND SCAN BEHIND ABDOMINAL CAVITY",
+    "US EXAM ABDO BACK WALL LIM"
+   ],
+   "gross": 559.0,
+   "gross_n_distinct": 2,
+   "cash": 279.5,
+   "min": 20.59,
+   "max": 236.1,
+   "median_neg": 106.4,
+   "n_neg": 70,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "ULTRASOUND SCAN OF ABDOMINAL AORTA",
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 559.0,
+   "gross_n_distinct": 2,
+   "cash": 279.5,
+   "min": 19.3,
+   "max": 236.1,
+   "median_neg": 106.4,
+   "n_neg": 70,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 2,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "COMPLETE ULTRASOUND SCAN BEHIND ABDOMINAL CAVITY",
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 559.0,
+   "gross_n_distinct": 2,
+   "cash": 279.5,
+   "min": 26.0,
+   "max": 236.1,
+   "median_neg": 106.4,
+   "n_neg": 70,
+   "modifier_used": ""
+  }
+ }
+}

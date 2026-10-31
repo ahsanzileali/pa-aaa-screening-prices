@@ -1,0 +1,53 @@
+location-name: Penn Highlands Brookville
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15368
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Clearfield
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15370
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Connellsville
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=14597
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands DuBois
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15371
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Elk
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15372
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Huntingdon
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15373
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Mon Valley
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=14847
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands State College
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15374
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org
+
+location-name: Penn Highlands Tyrone
+source-page-url: https://www.phhealthcare.org/patients-visitors/patient-billing-services
+mrf-url: https://www.phhealthcare.org/download/?id=15375
+contact-name: PHH MRF team
+contact-email: PriceTransparency@phhealthcare.org

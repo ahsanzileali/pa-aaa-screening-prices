@@ -1,0 +1,67 @@
+{
+ "url": "https://www.stclair.org/wp-content/uploads/2026/03/251010303_st.-clair-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "ST. CLAIR MEMORIAL HOSPITAL",
+ "last_updated": "3/31/2026",
+ "error": "",
+ "bytes": 44893680,
+ "seconds": 3,
+ "codes": {
+  "76775": {
+   "rows": 13,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ADD-ON RETROPERITONEUM L",
+    "ADD-ON RETROPERITONEUM LT",
+    "RENAL B-MODE"
+   ],
+   "gross": 434.0,
+   "gross_n_distinct": 3,
+   "cash": 107.68,
+   "min": 56.11,
+   "max": 434.0,
+   "median_neg": 122.6752248,
+   "n_neg": 980,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 5,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ULTRA SOUND AAA SCREENIN",
+    "ULTRA SOUND AAA SCREENING",
+    "US ABDL AORTA SCREEN AAA"
+   ],
+   "gross": 432.92,
+   "gross_n_distinct": 2,
+   "cash": 107.41,
+   "min": 61.0326,
+   "max": 432.9156006,
+   "median_neg": 218.9356133,
+   "n_neg": 368,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 5,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "RETROPERITONEUM",
+    "US EXAM ABDO BACK WALL COMP"
+   ],
+   "gross": 572.0,
+   "gross_n_distinct": 2,
+   "cash": 141.91,
+   "min": 74.77,
+   "max": 572.0,
+   "median_neg": 122.6752248,
+   "n_neg": 372,
+   "modifier_used": ""
+  }
+ }
+}

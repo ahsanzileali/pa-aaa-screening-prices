@@ -1,0 +1,50 @@
+{
+ "url": "https://millcreekcommunityhospital.pg.quadax.revenuemasters.com/cdm-files/251002937_millcreek-community-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Millcreek Medical Center",
+ "last_updated": "2026-05-08",
+ "error": "",
+ "bytes": 37634686,
+ "seconds": 6280,
+ "codes": {
+  "76775": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 0,
+   "settings": [],
+   "desc": [],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": null,
+   "min": null,
+   "max": null,
+   "median_neg": null,
+   "n_neg": 0,
+   "modifier_used": ""
+  }
+ }
+}

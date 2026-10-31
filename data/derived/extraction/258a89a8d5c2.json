@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250523970_upmc-horizon_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Horizon - Greenville",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 124970374,
+ "seconds": 39,
+ "codes": {
+  "76770": {
+   "rows": 62,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 850.0,
+   "gross_n_distinct": 1,
+   "cash": 510.0,
+   "min": 89.65,
+   "max": 722.5,
+   "median_neg": 262.32,
+   "n_neg": 44,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 62,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 79.01,
+   "max": 447.05,
+   "median_neg": 123.94999999999999,
+   "n_neg": 44,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 62,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1350.0,
+   "gross_n_distinct": 1,
+   "cash": 810.0,
+   "min": 83.73,
+   "max": 1147.5,
+   "median_neg": 196.68,
+   "n_neg": 44,
+   "modifier_used": ""
+  }
+ }
+}

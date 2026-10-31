@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240806023_upmc-muncy_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Muncy",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 122522496,
+ "seconds": 39,
+ "codes": {
+  "76706": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 480.0,
+   "gross_n_distinct": 1,
+   "cash": 288.0,
+   "min": 64.14,
+   "max": 456.0,
+   "median_neg": 188.26,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1163.0,
+   "gross_n_distinct": 1,
+   "cash": 697.8,
+   "min": 62.72,
+   "max": 1104.85,
+   "median_neg": 456.13,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1221.0,
+   "gross_n_distinct": 1,
+   "cash": 732.6,
+   "min": 62.72,
+   "max": 1159.95,
+   "median_neg": 478.88,
+   "n_neg": 33,
+   "modifier_used": ""
+  }
+ }
+}

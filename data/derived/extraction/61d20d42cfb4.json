@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250489010_upmc-northwest_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Northwest",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 107664192,
+ "seconds": 32,
+ "codes": {
+  "76770": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 1065.0,
+   "gross_n_distinct": 1,
+   "cash": 639.0,
+   "min": 89.65,
+   "max": 905.25,
+   "median_neg": 138.89,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 79.64,
+   "max": 351.9,
+   "median_neg": 119.09,
+   "n_neg": 33,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 510.0,
+   "gross_n_distinct": 1,
+   "cash": 306.0,
+   "min": 83.73,
+   "max": 433.5,
+   "median_neg": 198.32,
+   "n_neg": 33,
+   "modifier_used": ""
+  }
+ }
+}

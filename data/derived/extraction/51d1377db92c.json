@@ -1,0 +1,62 @@
+{
+ "url": "https://suburbanbhc.org/wp-content/uploads/2026/09/910401_RoxboroughMemorialHospital_standardcharges.json",
+ "format": "JSON",
+ "hospital_name_in_file": "",
+ "last_updated": "",
+ "error": "",
+ "bytes": 30114303,
+ "seconds": 1,
+ "codes": {
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us,Retroperit, B-Scan/Real Time,Complete"
+   ],
+   "gross": 1091.15,
+   "gross_n_distinct": 1,
+   "cash": 106.0,
+   "min": 49.0,
+   "max": 1058.4155,
+   "median_neg": 112.21,
+   "n_neg": 29,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us Abdominal Aorta Real Time Screen Study Aaa"
+   ],
+   "gross": 1456.0,
+   "gross_n_distinct": 1,
+   "cash": 106.0,
+   "min": 50.11,
+   "max": 1412.32,
+   "median_neg": 112.21,
+   "n_neg": 29,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Hc Us, Retroperitnl Abd, Ltd"
+   ],
+   "gross": 900.8,
+   "gross_n_distinct": 1,
+   "cash": 106.0,
+   "min": 49.0,
+   "max": 873.776,
+   "median_neg": 112.21,
+   "n_neg": 29,
+   "modifier_used": ""
+  }
+ }
+}

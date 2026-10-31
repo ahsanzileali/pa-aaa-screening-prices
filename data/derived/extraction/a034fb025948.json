@@ -1,0 +1,69 @@
+{
+ "url": "https://whs.org/wp-content/uploads/2026/03/250965600_upmc-washington_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Washington",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 98491673,
+ "seconds": 8,
+ "codes": {
+  "76706": {
+   "rows": 29,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US AAA SCREENING"
+   ],
+   "gross": 590.0,
+   "gross_n_distinct": 1,
+   "cash": 413.0,
+   "min": 76.03,
+   "max": 424.8,
+   "median_neg": 135.03,
+   "n_neg": 28,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 87,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ABDOMINAL AORTA",
+    "KIDNEY",
+    "US RETRO LIMITED-E"
+   ],
+   "gross": 798.2,
+   "gross_n_distinct": 3,
+   "cash": 558.74,
+   "min": 76.03,
+   "max": 574.7,
+   "median_neg": 135.03,
+   "n_neg": 84,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 145,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "ABDOMINAL NODES/RET",
+    "ADRENALS-ULTRASOUND",
+    "KIDNEY & BLADDER ULTRASOUND"
+   ],
+   "gross": 530.0,
+   "gross_n_distinct": 1,
+   "cash": 371.0,
+   "min": 76.03,
+   "max": 381.6,
+   "median_neg": 135.03,
+   "n_neg": 140,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "url": "https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf3q262/611739000_conemaugh-memorial-medical-center_standardcharges.csv.zip",
+ "format": "ZIP CSV-wide",
+ "hospital_name_in_file": "Conemaugh Memorial Medical Center ",
+ "last_updated": "4/15/2026",
+ "error": "",
+ "bytes": 634623,
+ "seconds": 1,
+ "codes": {
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound, abdominal aorta, real time with image documentation, screening study"
+   ],
+   "gross": 444.0,
+   "gross_n_distinct": 1,
+   "cash": 177.6,
+   "min": 42.24,
+   "max": 444.0,
+   "median_neg": 207.405,
+   "n_neg": 4,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound, retroperitoneal (eg, renal, aorta, nodes), real time with image docu"
+   ],
+   "gross": 411.0,
+   "gross_n_distinct": 1,
+   "cash": 164.4,
+   "min": 101.0,
+   "max": 411.0,
+   "median_neg": 194.305,
+   "n_neg": 4,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Ultrasound, retroperitoneal (eg, renal, aorta, nodes), real time with image docu"
+   ],
+   "gross": 587.0,
+   "gross_n_distinct": 1,
+   "cash": 234.8,
+   "min": 102.3,
+   "max": 587.0,
+   "median_neg": 194.305,
+   "n_neg": 4,
+   "modifier_used": ""
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965423_upmc-mckeesport_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC McKeesport",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 87708310,
+ "seconds": 8,
+ "codes": {
+  "76770": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 2272.0,
+   "gross_n_distinct": 1,
+   "cash": 1363.2,
+   "min": 89.65,
+   "max": 1931.2,
+   "median_neg": 327.30499999999995,
+   "n_neg": 34,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1454.0,
+   "gross_n_distinct": 1,
+   "cash": 872.4,
+   "min": 83.73,
+   "max": 1235.9,
+   "median_neg": 257.895,
+   "n_neg": 34,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 49,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 447.05,
+   "median_neg": 124.81,
+   "n_neg": 34,
+   "modifier_used": ""
+  }
+ }
+}

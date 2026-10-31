@@ -1,0 +1,5 @@
+location-name: Valley Forge Medical Center & Hospital
+source-page-url: https://www.vfmc.net/price-transparency
+mrf-url: https://www.vfmc.net/863012091_avenuesrecovery-valleyforge_standardcharges.csv
+contact-name: Josh Weber
+contact-email: jweber@vfmc.net

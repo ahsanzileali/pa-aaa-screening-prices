@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-presbyterian-shadyside_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Presbyterian",
+ "last_updated": "2026-03-06",
+ "error": "",
+ "bytes": 309136592,
+ "seconds": 146,
+ "codes": {
+  "76775": {
+   "rows": 48,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 1010.0,
+   "gross_n_distinct": 1,
+   "cash": 606.0,
+   "min": 58.8,
+   "max": 858.5,
+   "median_neg": 214.17,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 48,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 2105.0,
+   "gross_n_distinct": 1,
+   "cash": 1263.0,
+   "min": 58.8,
+   "max": 1789.25,
+   "median_neg": 326.4,
+   "n_neg": 35,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 48,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 41.0,
+   "max": 351.9,
+   "median_neg": 134.74,
+   "n_neg": 35,
+   "modifier_used": ""
+  }
+ }
+}

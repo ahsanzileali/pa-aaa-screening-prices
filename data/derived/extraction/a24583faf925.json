@@ -1,0 +1,62 @@
+{
+ "url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/204193243_jefferson-einstein-montgomery-hospital_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Einstein Medical Center Montgomery",
+ "last_updated": "9/15/2026",
+ "error": "",
+ "bytes": 16789379,
+ "seconds": 2,
+ "codes": {
+  "76775": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Echography, retroperitoneal, B-scan/real time w image documentation, limited"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": 124.68,
+   "min": 52.97,
+   "max": 429.02,
+   "median_neg": 110.544,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "ULTRASOUND, ABDOMINAL AORTA, REAL TIME WITH IMAGE DOCUMENTATION, SCREENING STUDY"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": 124.68,
+   "min": 65.14,
+   "max": 429.02,
+   "median_neg": 110.544,
+   "n_neg": 40,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "outpatient"
+   ],
+   "desc": [
+    "Echography, retroperitoneal, B-scan/real time w image documentation, complete"
+   ],
+   "gross": null,
+   "gross_n_distinct": 0,
+   "cash": 124.68,
+   "min": 52.97,
+   "max": 429.02,
+   "median_neg": 110.544,
+   "n_neg": 40,
+   "modifier_used": ""
+  }
+ }
+}

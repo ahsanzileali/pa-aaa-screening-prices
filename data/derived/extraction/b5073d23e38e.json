@@ -1,0 +1,64 @@
+{
+ "url": "https://wvumedicine.org/wp-content/uploads/2026/09/250965612_WestmorelandRegionalHospital_StandardCharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Independence Health System Westmoreland Regional Hospital",
+ "last_updated": "12/17/2025",
+ "error": "",
+ "bytes": 17904153,
+ "seconds": 1,
+ "codes": {
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US AAA SCREENING"
+   ],
+   "gross": 295.0,
+   "gross_n_distinct": 1,
+   "cash": 177.0,
+   "min": 86.88,
+   "max": 351.25,
+   "median_neg": 113.22,
+   "n_neg": 80,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 4,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "ED US AAA",
+    "ED US URINARY TRACT",
+    "US AORTA"
+   ],
+   "gross": 493.0,
+   "gross_n_distinct": 1,
+   "cash": 295.8,
+   "min": 56.11,
+   "max": 394.4,
+   "median_neg": 112.15,
+   "n_neg": 166,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 1,
+   "settings": [
+    "both"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 556.0,
+   "gross_n_distinct": 1,
+   "cash": 333.6,
+   "min": 74.77,
+   "max": 444.8,
+   "median_neg": 112.15,
+   "n_neg": 41,
+   "modifier_used": ""
+  }
+ }
+}

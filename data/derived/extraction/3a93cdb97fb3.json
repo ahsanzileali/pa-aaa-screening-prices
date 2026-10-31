@@ -1,0 +1,65 @@
+{
+ "url": "https://towerhealth.org/sites/default/files/pricing/82-2062413_Phoenixville-Hospital_StandardCharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Phoenixville Hospital",
+ "last_updated": "6/1/2026",
+ "error": "",
+ "bytes": 35688661,
+ "seconds": 967,
+ "codes": {
+  "76775": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US RETRO/RENAL/AORTA LIMITED"
+   ],
+   "gross": 884.0,
+   "gross_n_distinct": 1,
+   "cash": 221.0,
+   "min": 53.13,
+   "max": 866.32,
+   "median_neg": 98.0,
+   "n_neg": 15,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US RETRO/RENAL/AORTA"
+   ],
+   "gross": 1857.0,
+   "gross_n_distinct": 1,
+   "cash": 464.25,
+   "min": 61.25,
+   "max": 1819.86,
+   "median_neg": 139.26,
+   "n_neg": 15,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 2,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HB RAD US ABDOMINAL AORTA SCREEN AAA"
+   ],
+   "gross": 445.0,
+   "gross_n_distinct": 1,
+   "cash": 111.25,
+   "min": 62.64,
+   "max": 436.1,
+   "median_neg": 121.39,
+   "n_neg": 15,
+   "modifier_used": ""
+  }
+ }
+}

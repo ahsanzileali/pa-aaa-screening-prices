@@ -1,0 +1,65 @@
+{
+ "url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/311538725_pennsylvania-hospital-of-the-university-of-pennsylvania-health-system_standardcharges.csv",
+ "format": "CSV-wide",
+ "hospital_name_in_file": "Pennsylvania Hospital of the University of Pennsylvania Health System",
+ "last_updated": "    2026-10-20",
+ "error": "",
+ "bytes": 887645881,
+ "seconds": 25,
+ "codes": {
+  "76775": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL (RENAL) LTD"
+   ],
+   "gross": 1587.0,
+   "gross_n_distinct": 1,
+   "cash": 1587.0,
+   "min": 49.0,
+   "max": 1587.0,
+   "median_neg": 194.57,
+   "n_neg": 89,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORTA SCREEN AAA"
+   ],
+   "gross": 478.0,
+   "gross_n_distinct": 1,
+   "cash": 478.0,
+   "min": 50.11,
+   "max": 495.22,
+   "median_neg": 176.86,
+   "n_neg": 89,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 3,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC ULTRASD RETROPERITONEUM COMP"
+   ],
+   "gross": 2545.0,
+   "gross_n_distinct": 1,
+   "cash": 2545.0,
+   "min": 49.0,
+   "max": 2545.0,
+   "median_neg": 203.39,
+   "n_neg": 89,
+   "modifier_used": ""
+  }
+ }
+}

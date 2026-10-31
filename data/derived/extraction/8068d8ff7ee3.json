@@ -1,0 +1,65 @@
+{
+ "url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965387_upmc-hamot_standardcharges.csv?",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "UPMC Hamot",
+ "last_updated": "3/6/2026",
+ "error": "",
+ "bytes": 158389545,
+ "seconds": 5,
+ "codes": {
+  "76706": {
+   "rows": 51,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US ABDOMINAL AAA SCREENING"
+   ],
+   "gross": 414.0,
+   "gross_n_distinct": 1,
+   "cash": 248.4,
+   "min": 40.61,
+   "max": 331.2,
+   "median_neg": 124.2,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 51,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL COMPLETE"
+   ],
+   "gross": 737.0,
+   "gross_n_distinct": 1,
+   "cash": 442.2,
+   "min": 89.65,
+   "max": 630.6,
+   "median_neg": 138.89,
+   "n_neg": 39,
+   "modifier_used": ""
+  },
+  "76775": {
+   "rows": 51,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "US RETROPERITONEAL LIMITED"
+   ],
+   "gross": 540.0,
+   "gross_n_distinct": 1,
+   "cash": 324.0,
+   "min": 81.0,
+   "max": 469.56,
+   "median_neg": 129.72,
+   "n_neg": 39,
+   "modifier_used": ""
+  }
+ }
+}

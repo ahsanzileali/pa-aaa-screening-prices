@@ -1,0 +1,66 @@
+{
+ "url": "https://www.templehealth.org/sites/default/files/file/2026-04/883577015_temple-health--chestnut-hill-hospital_standardcharges.csv",
+ "format": "CSV-tall",
+ "hospital_name_in_file": "Temple Health - Chestnut Hill Hospital",
+ "last_updated": "2026-04-08",
+ "error": "",
+ "bytes": 123928662,
+ "seconds": 8,
+ "codes": {
+  "76775": {
+   "rows": 94,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC POCUS RETROPERITONEAL: AORTA, RENAL; LIMITED",
+    "HC US RETROPERITONEAL, LTD"
+   ],
+   "gross": 2335.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 46.27,
+   "max": 2288.3,
+   "median_neg": 112.78,
+   "n_neg": 88,
+   "modifier_used": ""
+  },
+  "76770": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US RETROPERITONEAL,COMPL"
+   ],
+   "gross": 3240.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 66.64,
+   "max": 3175.2,
+   "median_neg": 112.78,
+   "n_neg": 44,
+   "modifier_used": ""
+  },
+  "76706": {
+   "rows": 47,
+   "settings": [
+    "inpatient",
+    "outpatient"
+   ],
+   "desc": [
+    "HC US ABD AORT ANEUR (AAA) SCRN"
+   ],
+   "gross": 2122.0,
+   "gross_n_distinct": 1,
+   "cash": null,
+   "min": 68.15,
+   "max": 2079.56,
+   "median_neg": 112.78,
+   "n_neg": 44,
+   "modifier_used": ""
+  }
+ }
+}
